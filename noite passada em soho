@@ -1,0 +1,5450 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=9">
+  <meta http-equiv="X-UA-TextLayoutMetrics" content="gdi" />
+  <meta name="theme-color" content="#333333">
+
+  <title>REAG Belas Artes | Noite passada em Soho - REAG Belas Artes</title>
+
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="msapplication-TileImage" content="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/favicon-32x32.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/favicon-32x32.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/favicon-32x32.png">
+<!-- <link rel="icon" href="<?php// echo bloginfo('template_url'); ?>/public/images/favicon/favicon-32x32.png" sizes="32x32"> -->
+<link rel="shortcut icon" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/favicon.ico" />
+<link rel="icon" sizes="16x16" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/favicon/favicon.ico">
+
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900" rel="stylesheet">
+
+  <style>
+        @charset "UTF-8";
+@font-face {
+  font-family: 'material-design-icon';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/material-design-icon/Material-Design-Iconic-Font.woff2?v=2.1.0") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/material-design-icon/Material-Design-Iconic-Font.woff?v=2.1.0") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/material-design-icon/Material-Design-Iconic-Font.ttf?v=2.1.0") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'luthier';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Regular.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Regular.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'luthier';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Bold.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Bold.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'luthier';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Italic.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Italic.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'luthier';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-BoldItalic.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-BoldItalic.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/luthier/Luthier-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'tt-hoves';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_regular.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_regular.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'tt-hoves';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_italic.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_italic.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_italic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'tt-hoves';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_demibold.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_demibold.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_demibold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'tt-hoves';
+  src: url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_demibolditalic.woff2") format("woff2"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_demibolditalic.woff") format("woff"), url("/wp-content/themes/caixa-belas-artes-v2/public/fonts/tt-hoves/tt_hoves_demibolditalic.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+/* line 80, public/css/sass/base/_var-layout.scss */
+::-moz-selection {
+  color: #FFF;
+  background: #155488;
+}
+::selection {
+  color: #FFF;
+  background: #155488;
+}
+
+/* line 4, public/css/sass/base/_typography.scss */
+html {
+  position: relative;
+  min-height: 100%;
+}
+/* line 8, public/css/sass/base/_typography.scss */
+html * {
+  box-sizing: border-box;
+}
+
+/* line 11, public/css/sass/base/_typography.scss */
+body {
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  -webkit-font-kerning: normal;
+          font-kerning: normal;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  min-height: 100%;
+  color: #FFF;
+  background: #202020;
+}
+
+/* line 22, public/css/sass/base/_typography.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.025em;
+  text-rendering: optimizeLegibility;
+}
+
+/* line 29, public/css/sass/base/_typography.scss */
+button {
+  border: none;
+  box-shadow: none;
+  outline: none;
+  text-rendering: optimizeLegibility;
+}
+
+/* line 36, public/css/sass/base/_typography.scss */
+a {
+  text-decoration: none;
+}
+/* line 39, public/css/sass/base/_typography.scss */
+a:hover {
+  text-decoration: none;
+}
+
+/* line 42, public/css/sass/base/_typography.scss */
+p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #FFF;
+}
+/* line 47, public/css/sass/base/_typography.scss */
+p a {
+  text-decoration: underline;
+  overflow-wrap: break-word;
+  color: #FFF;
+}
+
+/* line 54, public/css/sass/base/_typography.scss */
+label {
+  font-weight: 400;
+}
+
+/* line 58, public/css/sass/base/_typography.scss */
+span {
+  font-weight: 400;
+}
+/* line 60, public/css/sass/base/_typography.scss */
+span a {
+  text-decoration: underline;
+  overflow-wrap: break-word;
+  color: #FFF;
+}
+
+@media all and (min-width: 930px) {
+  font-size: 18px;
+}
+/*!
+ *  Material Design Iconic Font by Sergey Kupletsky (@zavoloklom) - http://zavoloklom.github.io/material-design-iconic-font/
+ *  License - http://zavoloklom.github.io/material-design-iconic-font/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* line 6, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo {
+  background: #FFAA00;
+  border: 2px solid transparent;
+  transition: opacity 0.3s ease, border 0.5s ease;
+}
+/* line 13, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i {
+  width: 28px;
+  height: 28px;
+}
+/* line 17, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__part {
+  opacity: 0.95;
+  fill: #FFF;
+}
+/* line 23, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__1 {
+  transition: 0.25s ease 0.025s;
+}
+/* line 24, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__2 {
+  transition: 0.25s ease 0.05s;
+}
+/* line 25, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__3 {
+  transition: 0.25s ease 0.075s;
+}
+/* line 26, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__4 {
+  transition: 0.25s ease 0.1s;
+}
+/* line 27, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__5 {
+  transition: 0.25s ease 0.125s;
+}
+/* line 28, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__6 {
+  transition: 0.25s ease 0.15s;
+}
+/* line 29, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__7 {
+  transition: 0.25s ease 0.175s;
+}
+/* line 30, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__8 {
+  transition: 0.25s ease 0.2s;
+}
+/* line 31, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__9 {
+  transition: 0.25s ease 0.225s;
+}
+/* line 32, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__10 {
+  transition: 0.25s ease 0.25s;
+}
+/* line 33, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__11 {
+  transition: 0.25s ease 0.275s;
+}
+/* line 34, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__12 {
+  transition: 0.25s ease 0.3s;
+}
+/* line 35, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__13 {
+  transition: 0.25s ease 0.325s;
+}
+/* line 36, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo .icon-svg--42i__14 {
+  transition: 0.25s ease 0.35s;
+}
+/* line 39, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover {
+  opacity: 0.7;
+}
+/* line 42, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover:before, .c-footer__developer-logo:hover:after {
+  width: 100%;
+  height: 100%;
+}
+/* line 48, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover:hover:before {
+  border-top-color: #FFAA00;
+  border-right-color: #FFAA00;
+}
+/* line 53, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover:hover:after {
+  border-bottom-color: #FFAA00;
+  border-left-color: #FFAA00;
+  transition: height 0.25s ease-out, width 0.25s ease-out 0.25s;
+}
+/* line 62, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__part {
+  opacity: 1;
+  fill: #FFAA00;
+}
+/* line 67, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__1 {
+  transition: 0.2s ease 0.025s;
+}
+/* line 68, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__2 {
+  transition: 0.2s ease 0.05s;
+}
+/* line 69, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__3 {
+  transition: 0.2s ease 0.075s;
+}
+/* line 70, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__4 {
+  transition: 0.2s ease 0.1s;
+}
+/* line 71, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__5 {
+  transition: 0.2s ease 0.125s;
+}
+/* line 72, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__6 {
+  transition: 0.2s ease 0.15s;
+}
+/* line 73, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__7 {
+  transition: 0.2s ease 0.175s;
+}
+/* line 74, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__8 {
+  transition: 0.2s ease 0.2s;
+}
+/* line 75, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__9 {
+  transition: 0.2s ease 0.225s;
+}
+/* line 76, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__10 {
+  transition: 0.2s ease 0.25s;
+}
+/* line 77, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__11 {
+  transition: 0.2s ease 0.275s;
+}
+/* line 78, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__12 {
+  transition: 0.2s ease 0.3s;
+}
+/* line 79, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__13 {
+  transition: 0.2s ease 0.325s;
+}
+/* line 80, public/css/sass/base/_icons.scss */
+.c-footer__developer-logo:hover .icon-svg--42i__14 {
+  transition: 0.2s ease 0.35s;
+}
+
+/* line 85, public/css/sass/base/_icons.scss */
+.zmdi {
+  display: inline-block;
+  font: normal normal normal 14px/1 "material-design-icon";
+  font-size: 32px;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #FFF;
+  transition: color 0.3s;
+}
+/* line 95, public/css/sass/base/_icons.scss */
+.zmdi.is-active {
+  color: #b2b2b2;
+}
+/* line 97, public/css/sass/base/_icons.scss */
+.zmdi--hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* line 101, public/css/sass/base/_icons.scss */
+.zmdi-hc-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+
+/* line 106, public/css/sass/base/_icons.scss */
+.zmdi-hc-2x {
+  font-size: 2em;
+}
+
+/* line 109, public/css/sass/base/_icons.scss */
+.zmdi-hc-3x {
+  font-size: 3em;
+}
+
+/* line 112, public/css/sass/base/_icons.scss */
+.zmdi-hc-4x {
+  font-size: 4em;
+}
+
+/* line 115, public/css/sass/base/_icons.scss */
+.zmdi-hc-5x {
+  font-size: 5em;
+}
+
+/* line 118, public/css/sass/base/_icons.scss */
+.zmdi-hc-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+
+/* line 122, public/css/sass/base/_icons.scss */
+.zmdi-hc-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+}
+
+/* line 127, public/css/sass/base/_icons.scss */
+.zmdi-hc-ul > li {
+  position: relative;
+}
+
+/* line 130, public/css/sass/base/_icons.scss */
+.zmdi-hc-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+
+/* line 137, public/css/sass/base/_icons.scss */
+.zmdi-hc-li.zmdi-hc-lg {
+  left: -1.85714286em;
+}
+
+/* line 140, public/css/sass/base/_icons.scss */
+.zmdi-hc-border {
+  padding: .1em .25em;
+  border: solid 0.1em #9e9e9e;
+  border-radius: 2px;
+}
+
+/* line 145, public/css/sass/base/_icons.scss */
+.zmdi-hc-border-circle {
+  padding: .1em .25em;
+  border: solid 0.1em #9e9e9e;
+  border-radius: 50%;
+}
+
+/* line 150, public/css/sass/base/_icons.scss */
+.zmdi.pull-left {
+  float: left;
+  margin-right: .15em;
+}
+
+/* line 154, public/css/sass/base/_icons.scss */
+.zmdi.pull-right {
+  float: right;
+  margin-left: .15em;
+}
+
+/* line 158, public/css/sass/base/_icons.scss */
+.zmdi-hc-spin {
+  -webkit-animation: zmdi-spin 1.5s infinite linear;
+  animation: zmdi-spin 1.5s infinite linear;
+}
+
+/* line 162, public/css/sass/base/_icons.scss */
+.zmdi-hc-spin-reverse {
+  -webkit-animation: zmdi-spin-reverse 1.5s infinite linear;
+  animation: zmdi-spin-reverse 1.5s infinite linear;
+}
+
+@-webkit-keyframes zmdi-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes zmdi-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes zmdi-spin-reverse {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(-359deg);
+    transform: rotate(-359deg);
+  }
+}
+@keyframes zmdi-spin-reverse {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(-359deg);
+    transform: rotate(-359deg);
+  }
+}
+/* line 206, public/css/sass/base/_icons.scss */
+.zmdi-hc-rotate-90 {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+/* line 211, public/css/sass/base/_icons.scss */
+.zmdi-hc-rotate-180 {
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+/* line 216, public/css/sass/base/_icons.scss */
+.zmdi-hc-rotate-270 {
+  -webkit-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+/* line 221, public/css/sass/base/_icons.scss */
+.zmdi-hc-flip-horizontal {
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+/* line 226, public/css/sass/base/_icons.scss */
+.zmdi-hc-flip-vertical {
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+
+/* line 231, public/css/sass/base/_icons.scss */
+.zmdi-hc-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+
+/* line 239, public/css/sass/base/_icons.scss */
+.zmdi-hc-stack-1x,
+.zmdi-hc-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* line 246, public/css/sass/base/_icons.scss */
+.zmdi-hc-stack-1x {
+  line-height: inherit;
+}
+
+/* line 249, public/css/sass/base/_icons.scss */
+.zmdi-hc-stack-2x {
+  font-size: 2em;
+}
+
+/* line 252, public/css/sass/base/_icons.scss */
+.zmdi-hc-inverse {
+  color: #ffffff;
+}
+
+/* Material Design Iconic Font uses the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+/* line 416, public/css/sass/base/_icons.scss */
+.zmdi-close:before {
+  content: '\f136';
+}
+
+/* line 839, public/css/sass/base/_icons.scss */
+.zmdi-search:before {
+  content: '\f1c3';
+}
+
+/* line 1043, public/css/sass/base/_icons.scss */
+.zmdi-account:before {
+  content: '\f207';
+}
+
+/* line 1373, public/css/sass/base/_icons.scss */
+.zmdi-plus-circle-o:before {
+  content: '\f275';
+}
+
+/* line 1772, public/css/sass/base/_icons.scss */
+.zmdi-chevron-left:before {
+  content: '\f2fa';
+}
+
+/* line 1775, public/css/sass/base/_icons.scss */
+.zmdi-chevron-right:before {
+  content: '\f2fb';
+}
+
+/* line 1817, public/css/sass/base/_icons.scss */
+.zmdi-square-right:before {
+  content: '\f309';
+}
+
+/* line 1991, public/css/sass/base/_icons.scss */
+.zmdi-facebook:before {
+  content: '\f343';
+}
+
+/* line 2027, public/css/sass/base/_icons.scss */
+.zmdi-instagram:before {
+  content: '\f34f';
+}
+
+/* line 2078, public/css/sass/base/_icons.scss */
+.zmdi-twitter:before {
+  content: '\f360';
+}
+
+/* line 2582, public/css/sass/base/_icons.scss */
+.zmdi-youtube-play:before {
+  content: '\f408';
+}
+
+/* line 2585, public/css/sass/base/_icons.scss */
+.zmdi-youtube:before {
+  content: '\f409';
+}
+
+/* line 3038, public/css/sass/base/_icons.scss */
+.zmdi-menu:before {
+  content: '\f197';
+}
+
+/* line 3449, public/css/sass/base/_icons.scss */
+.zmdi-download:before {
+  content: '\f220';
+}
+
+/* line 3692, public/css/sass/base/_icons.scss */
+.zmdi-minus-circle:before {
+  content: '\f271';
+}
+
+/* line 3707, public/css/sass/base/_icons.scss */
+.zmdi-plus-circle:before {
+  content: '\f276';
+}
+
+/* line 4076, public/css/sass/base/_icons.scss */
+.zmdi-caret-down-circle:before {
+  content: '\f2f1';
+}
+
+/* line 4079, public/css/sass/base/_icons.scss */
+.zmdi-caret-down:before {
+  content: '\f2f2';
+}
+
+/* line 4082, public/css/sass/base/_icons.scss */
+.zmdi-caret-left-circle:before {
+  content: '\f2f3';
+}
+
+/* line 4085, public/css/sass/base/_icons.scss */
+.zmdi-caret-left:before {
+  content: '\f2f4';
+}
+
+/* line 4088, public/css/sass/base/_icons.scss */
+.zmdi-caret-right-circle:before {
+  content: '\f2f5';
+}
+
+/* line 4091, public/css/sass/base/_icons.scss */
+.zmdi-caret-right:before {
+  content: '\f2f6';
+}
+
+/* line 4094, public/css/sass/base/_icons.scss */
+.zmdi-caret-up-circle:before {
+  content: '\f2f7';
+}
+
+/* line 4097, public/css/sass/base/_icons.scss */
+.zmdi-caret-up:before {
+  content: '\f2f8';
+}
+
+/* line 4322, public/css/sass/base/_icons.scss */
+.zmdi-facebook:before {
+  content: '\f343';
+}
+
+/* line 1, public/css/sass/base/_grid.scss */
+.s-container,
+.s-container-fluid {
+  position: relative;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+/* line 11, public/css/sass/base/_grid.scss */
+.s-container--no-mobile,
+.s-container-fluid--no-mobile {
+  padding: 0;
+}
+/* line 13, public/css/sass/base/_grid.scss */
+.s-container--full,
+.s-container-fluid--full {
+  padding: 0;
+}
+
+/* line 18, public/css/sass/base/_grid.scss */
+.s-container:before,
+.s-container:after,
+.s-container-fluid:before,
+.s-container-fluid:after {
+  display: table;
+  content: " ";
+}
+
+/* line 26, public/css/sass/base/_grid.scss */
+.s-container:after,
+.s-container-fluid:after {
+  clear: both;
+}
+
+/* line 29, public/css/sass/base/_grid.scss */
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+/* line 33, public/css/sass/base/_grid.scss */
+.row:before, .row:after {
+  display: table;
+  content: " ";
+}
+/* line 39, public/css/sass/base/_grid.scss */
+.row:after {
+  clear: both;
+}
+/* line 41, public/css/sass/base/_grid.scss */
+.row * {
+  box-sizing: border-box;
+}
+/* line 43, public/css/sass/base/_grid.scss */
+.row *:before,
+.row *:after {
+  box-sizing: border-box;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-1 {
+  width: 8.3333333333%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-2 {
+  width: 16.6666666667%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-3 {
+  width: 25%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-4 {
+  width: 33.3333333333%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-5 {
+  width: 41.6666666667%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-6 {
+  width: 50%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-7 {
+  width: 58.3333333333%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-8 {
+  width: 66.6666666667%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-9 {
+  width: 75%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-10 {
+  width: 83.3333333333%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-11 {
+  width: 91.6666666667%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 48, public/css/sass/base/_grid.scss */
+.col-xs-12 {
+  width: 100%;
+  float: left;
+  min-height: 1px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+}
+
+/* line 57, public/css/sass/base/_grid.scss */
+.col-xs-hidden,
+.col-sm-hidden,
+.col-md-hidden {
+  display: none;
+}
+
+/* line 60, public/css/sass/base/_grid.scss */
+.col--center {
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+@media all and (min-width: 320px) {
+  /* line 67, public/css/sass/base/_grid.scss */
+  .s-container {
+    width: 100%;
+  }
+  /* line 70, public/css/sass/base/_grid.scss */
+  .s-container--small {
+    width: 220px;
+  }
+  /* line 72, public/css/sass/base/_grid.scss */
+  .s-container--full {
+    padding: 0;
+  }
+
+  /* line 77, public/css/sass/base/_grid.scss */
+  .row {
+    margin-right: -7.5px;
+    margin-left: -7.5px;
+  }
+  /* line 81, public/css/sass/base/_grid.scss */
+  .row--no-gutter {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  /* line 86, public/css/sass/base/_grid.scss */
+  .row--half {
+    margin-right: -3.75px;
+    margin-left: -3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-1 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-2 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-3 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-4 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-5 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-6 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-7 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-8 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-9 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-10 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-11 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 91, public/css/sass/base/_grid.scss */
+  .row--half .col-sm-12 {
+    padding-right: 3.75px;
+    padding-left: 3.75px;
+  }
+  /* line 98, public/css/sass/base/_grid.scss */
+  .row--center {
+    text-align: center;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-1 {
+    width: 8.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-2 {
+    width: 16.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-3 {
+    width: 25%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-4 {
+    width: 33.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-5 {
+    width: 41.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-6 {
+    width: 50%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-7 {
+    width: 58.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-8 {
+    width: 66.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-9 {
+    width: 75%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-10 {
+    width: 83.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-11 {
+    width: 91.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 102, public/css/sass/base/_grid.scss */
+  .col-sm-12 {
+    width: 100%;
+    float: left;
+    min-height: 1px;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 111, public/css/sass/base/_grid.scss */
+  .col--no-gutter {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* line 116, public/css/sass/base/_grid.scss */
+  .col-xs-hidden {
+    display: block;
+  }
+}
+@media all and (min-width: 768px) {
+  /* line 120, public/css/sass/base/_grid.scss */
+  .s-container {
+    width: 768px;
+  }
+  /* line 123, public/css/sass/base/_grid.scss */
+  .s-container--small {
+    width: 668px;
+  }
+  /* line 125, public/css/sass/base/_grid.scss */
+  .s-container--full {
+    width: 100%;
+  }
+
+  /* line 130, public/css/sass/base/_grid.scss */
+  .row {
+    margin-right: -11px;
+    margin-left: -11px;
+  }
+  /* line 134, public/css/sass/base/_grid.scss */
+  .row--no-gutter {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-1 {
+    width: 8.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-2 {
+    width: 16.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-3 {
+    width: 25%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-4 {
+    width: 33.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-5 {
+    width: 41.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-6 {
+    width: 50%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-7 {
+    width: 58.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-8 {
+    width: 66.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-9 {
+    width: 75%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-10 {
+    width: 83.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-11 {
+    width: 91.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 141, public/css/sass/base/_grid.scss */
+  .col-md-12 {
+    width: 100%;
+    float: left;
+    min-height: 1px;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  /* line 150, public/css/sass/base/_grid.scss */
+  .row--half {
+    margin-right: -6px;
+    margin-left: -6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-1 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-2 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-3 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-4 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-5 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-6 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-7 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-8 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-9 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-10 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-11 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+  /* line 155, public/css/sass/base/_grid.scss */
+  .row--half .col-md-12 {
+    padding-right: 6px;
+    padding-left: 6px;
+  }
+
+  /* line 162, public/css/sass/base/_grid.scss */
+  .col--no-gutter {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* line 167, public/css/sass/base/_grid.scss */
+  .col-sm-hidden {
+    display: block;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 171, public/css/sass/base/_grid.scss */
+  .s-container {
+    width: 930px;
+    padding: 0;
+  }
+  /* line 175, public/css/sass/base/_grid.scss */
+  .s-container--small {
+    width: 830px;
+  }
+
+  /* line 178, public/css/sass/base/_grid.scss */
+  .row {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  /* line 182, public/css/sass/base/_grid.scss */
+  .row--no-gutter {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-1 {
+    width: 8.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-2 {
+    width: 16.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-3 {
+    width: 25%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-4 {
+    width: 33.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-5 {
+    width: 41.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-6 {
+    width: 50%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-7 {
+    width: 58.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-8 {
+    width: 66.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-9 {
+    width: 75%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-10 {
+    width: 83.3333333333%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-11 {
+    width: 91.6666666667%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 189, public/css/sass/base/_grid.scss */
+  .col-lg-12 {
+    width: 100%;
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  /* line 198, public/css/sass/base/_grid.scss */
+  .row--half {
+    margin-right: -7.5px;
+    margin-left: -7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-1 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-2 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-3 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-4 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-5 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-6 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-7 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-8 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-9 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-10 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-11 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  /* line 203, public/css/sass/base/_grid.scss */
+  .row--half .col-lg-12 {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+
+  /* line 210, public/css/sass/base/_grid.scss */
+  .col--no-gutter {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* line 215, public/css/sass/base/_grid.scss */
+  .col-md-hidden {
+    display: block;
+  }
+}
+/* line 3, public/css/sass/base/_utils.scss */
+.u-aligner {
+  text-align: center;
+  display: block;
+}
+/* line 8, public/css/sass/base/_utils.scss */
+.u-aligner--left {
+  text-align: left;
+}
+/* line 9, public/css/sass/base/_utils.scss */
+.u-aligner--right {
+  text-align: right;
+}
+/* line 11, public/css/sass/base/_utils.scss */
+.u-aligner__font-thin {
+  font-weight: 100;
+}
+
+/* line 14, public/css/sass/base/_utils.scss */
+.u-full-width {
+  width: 100%;
+}
+
+/* line 17, public/css/sass/base/_utils.scss */
+.u-vertical-align:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+/* line 24, public/css/sass/base/_utils.scss */
+.u-vertical-align__child {
+  display: inline-block;
+  vertical-align: middle;
+}
+/* line 30, public/css/sass/base/_utils.scss */
+.u-vertical-align--top__child {
+  vertical-align: top;
+}
+/* line 34, public/css/sass/base/_utils.scss */
+.u-vertical-align--bottom__child {
+  vertical-align: bottom;
+}
+
+/* line 38, public/css/sass/base/_utils.scss */
+.u-padding {
+  padding-right: 20px;
+}
+
+/* line 42, public/css/sass/base/_utils.scss */
+.u-pull-left {
+  display: inline-block;
+  float: left !important;
+}
+
+/* line 47, public/css/sass/base/_utils.scss */
+.u-pull-right {
+  display: inline-block;
+  float: right !important;
+}
+
+/* line 53, public/css/sass/base/_mixins.scss */
+.u-clearfix:before, .u-clearfix:after {
+  content: " ";
+  display: table;
+}
+/* line 59, public/css/sass/base/_mixins.scss */
+.u-clearfix:after {
+  clear: both;
+}
+
+/* line 54, public/css/sass/base/_utils.scss */
+.u-block {
+  display: block;
+}
+
+/* line 58, public/css/sass/base/_utils.scss */
+.u-img-clipper {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+/* line 63, public/css/sass/base/_utils.scss */
+.u-img-clipper img {
+  width: 100%;
+  height: auto;
+}
+
+/* line 69, public/css/sass/base/_utils.scss */
+.u-img-full-width {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+/* line 74, public/css/sass/base/_utils.scss */
+.u-img-thumb {
+  width: 100px;
+}
+/* line 77, public/css/sass/base/_utils.scss */
+.u-img-thumb img {
+  width: 100%;
+}
+
+/* line 80, public/css/sass/base/_utils.scss */
+.u-image-control {
+  width: 100%;
+  height: auto;
+}
+
+/* line 85, public/css/sass/base/_utils.scss */
+.u-list-unstyled {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 91, public/css/sass/base/_utils.scss */
+.u-hidden {
+  display: none !important;
+}
+
+/* line 93, public/css/sass/base/_utils.scss */
+.u-hidden-mobile-inline {
+  display: none !important;
+}
+
+/* line 94, public/css/sass/base/_utils.scss */
+.u-hidden-mobile {
+  display: none !important;
+}
+
+/* line 95, public/css/sass/base/_utils.scss */
+.u-hidden-tablet {
+  display: block !important;
+}
+
+/* line 96, public/css/sass/base/_utils.scss */
+.u-show-starting-tablet {
+  display: none !important;
+}
+
+/* line 97, public/css/sass/base/_utils.scss */
+.u-cursor-normal,
+.u-cursor-normal:hover {
+  cursor: default;
+}
+
+@media (min-width: 768px) {
+  /* line 101, public/css/sass/base/_utils.scss */
+  .u-hidden-tablet {
+    display: none !important;
+  }
+
+  /* line 102, public/css/sass/base/_utils.scss */
+  .u-show-starting-tablet {
+    display: block !important;
+  }
+}
+@media (min-width: 930px) {
+  /* line 106, public/css/sass/base/_utils.scss */
+  .u-hidden-mobile {
+    display: block !important;
+  }
+
+  /* line 107, public/css/sass/base/_utils.scss */
+  .u-hidden-mobile-inline {
+    display: inline-block !important;
+  }
+
+  /* line 108, public/css/sass/base/_utils.scss */
+  .u-hidden-desktop {
+    display: none !important;
+  }
+}
+/* line 2, public/css/sass/base/_wordpress-base-style.scss */
+.alignnone {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 6, public/css/sass/base/_wordpress-base-style.scss */
+.aligncenter,
+div.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+}
+
+/* line 12, public/css/sass/base/_wordpress-base-style.scss */
+.alignright {
+  float: right;
+  margin: 5px 0 20px 20px;
+}
+
+/* line 17, public/css/sass/base/_wordpress-base-style.scss */
+.alignleft {
+  float: left;
+  margin: 5px 20px 20px 0;
+}
+
+/* line 22, public/css/sass/base/_wordpress-base-style.scss */
+a img.alignright {
+  float: right;
+  margin: 5px 0 20px 20px;
+}
+
+/* line 27, public/css/sass/base/_wordpress-base-style.scss */
+a img.alignnone {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 31, public/css/sass/base/_wordpress-base-style.scss */
+a img.alignleft {
+  float: left;
+  margin: 5px 20px 20px 0;
+}
+
+/* line 36, public/css/sass/base/_wordpress-base-style.scss */
+a img.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 42, public/css/sass/base/_wordpress-base-style.scss */
+.wp-caption {
+  max-width: 100%;
+  /* Image does not overflow the content area */
+}
+
+/* line 46, public/css/sass/base/_wordpress-base-style.scss */
+.wp-caption.alignnone {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 50, public/css/sass/base/_wordpress-base-style.scss */
+.wp-caption.alignleft {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 54, public/css/sass/base/_wordpress-base-style.scss */
+.wp-caption.alignright {
+  margin: 5px 0 20px 20px;
+}
+
+/* line 58, public/css/sass/base/_wordpress-base-style.scss */
+.wp-caption img {
+  border: 0 none;
+  height: auto;
+  margin: 0;
+  max-width: 98.5%;
+  padding: 0;
+  width: auto;
+}
+
+/* line 67, public/css/sass/base/_wordpress-base-style.scss */
+.wp-caption p.wp-caption-text {
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0;
+  padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+/* line 76, public/css/sass/base/_wordpress-base-style.scss */
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+/* line 84, public/css/sass/base/_wordpress-base-style.scss */
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+/* line 1, public/css/sass/base/_layout.scss */
+.c-wrapper {
+  padding-top: 60px;
+  height: calc(100% - 60px);
+  padding-bottom: 80px;
+}
+
+/* line 7, public/css/sass/base/_layout.scss */
+.c-play-schedule__info-before {
+  margin-top: 30px;
+  padding: 8px 6px;
+  border: solid 1px #fff;
+  width: 250px;
+  margin: 30px auto 0;
+}
+
+/* line 15, public/css/sass/base/_layout.scss */
+.c-play-schedule__info-before--title {
+  display: inline-block;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+/* line 21, public/css/sass/base/_layout.scss */
+.c-section-title {
+  font-size: 22px;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 30px 0 5px;
+  padding: 0 20px;
+  color: #FFF;
+}
+/* line 31, public/css/sass/base/_layout.scss */
+.c-section-title__with-bg {
+  margin: 0px;
+}
+
+/* line 36, public/css/sass/base/_layout.scss */
+.c-section-subtitle {
+  font-size: 16px;
+  text-transform: uppercase;
+  margin: 5px 0 30px;
+  display: block;
+  color: #FFF;
+}
+
+/* line 45, public/css/sass/base/_layout.scss */
+.c-title-bg {
+  padding: 15px 9px;
+  display: inline-block;
+  margin: 55px 0px;
+}
+/* line 50, public/css/sass/base/_layout.scss */
+.c-title-bg .c-section-title {
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+/* line 56, public/css/sass/base/_layout.scss */
+.c-title-bg .c-section-subtitle {
+  margin: 5px 0 0;
+}
+/* line 60, public/css/sass/base/_layout.scss */
+.c-title-bg--yellow {
+  background: #faa519;
+}
+/* line 64, public/css/sass/base/_layout.scss */
+.c-title-bg--turquoise {
+  background: #219a9a;
+}
+/* line 68, public/css/sass/base/_layout.scss */
+.c-title-bg--navy-blue {
+  background: #155488;
+}
+/* line 72, public/css/sass/base/_layout.scss */
+.c-title-bg--red {
+  background: #9f2a33;
+}
+/* line 76, public/css/sass/base/_layout.scss */
+.c-title-bg--small-space {
+  margin: 40px 0px 20px;
+}
+/* line 80, public/css/sass/base/_layout.scss */
+.c-title-bg--big-width {
+  padding: 15px 26px;
+}
+
+/* line 83, public/css/sass/base/_layout.scss */
+.room-image {
+  height: 150px;
+  width: 100%;
+}
+
+@media all and (min-width: 930px) {
+  /* line 89, public/css/sass/base/_layout.scss */
+  .c-wrapper {
+    padding-top: 132px;
+    height: calc(100% - 132px);
+    padding-bottom: 60px;
+  }
+
+  /* line 95, public/css/sass/base/_layout.scss */
+  .c-play-schedule__info-before {
+    padding: 10px 6px;
+    width: 420px;
+    margin: 70px auto 0;
+  }
+
+  /* line 101, public/css/sass/base/_layout.scss */
+  .c-play-schedule__info-before--title {
+    display: inline-block;
+    font-size: 24px;
+  }
+
+  /* line 106, public/css/sass/base/_layout.scss */
+  .c-section-title {
+    font-size: 46px;
+    margin: 70px 0 5px;
+    padding: 0 92px;
+  }
+  /* line 111, public/css/sass/base/_layout.scss */
+  .c-section-title__with-bg {
+    margin: 0px;
+  }
+
+  /* line 116, public/css/sass/base/_layout.scss */
+  .c-section-subtitle {
+    font-size: 24px;
+    margin: 5px 0 40px;
+  }
+
+  /* line 122, public/css/sass/base/_layout.scss */
+  .home .c-section-subtitle {
+    margin: 5px 0 60px;
+  }
+
+  /* line 125, public/css/sass/base/_layout.scss */
+  .c-title-bg {
+    margin: 70px 0px;
+    padding: 25px 20px;
+  }
+  /* line 129, public/css/sass/base/_layout.scss */
+  .c-title-bg .c-section-subtitle {
+    font-size: 24px;
+    margin: 5px 0 0px;
+  }
+  /* line 134, public/css/sass/base/_layout.scss */
+  .c-title-bg--no-margin-bottom {
+    margin-bottom: 6px;
+  }
+  /* line 138, public/css/sass/base/_layout.scss */
+  .c-title-bg--no-bottom {
+    margin-bottom: 60px;
+  }
+}
+/* line 1, public/css/sass/modules/header/top.scss */
+.c-header__top {
+  position: relative;
+  padding: 0;
+  height: 60px;
+  padding: 21px 26px;
+  background: #127345;
+  transition: padding 0.35s ease, height 0.35s ease;
+}
+
+/* line 11, public/css/sass/modules/header/top.scss */
+.c-brand {
+  position: absolute;
+  width: 70%;
+  height: auto;
+  max-width: 600px;
+  display: inline-block;
+  left: 25px;
+  top: 52%;
+  -webkit-transform: translate3D(0%, -50%, 0);
+      -ms-transform: translate3D(0%, -50%, 0);
+          transform: translate3D(0%, -50%, 0);
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+}
+/* line 24, public/css/sass/modules/header/top.scss */
+.c-brand img {
+  width: 100%;
+  height: auto;
+  transition: width 0.35s ease;
+}
+
+/* line 32, public/css/sass/modules/header/top.scss */
+.c-hamburguer {
+  margin-top: -2px;
+  float: right;
+}
+/* line 36, public/css/sass/modules/header/top.scss */
+.c-hamburguer span {
+  font-size: 24px;
+}
+
+@media all and (min-width: 768px) {
+  /* line 42, public/css/sass/modules/header/top.scss */
+  .c-header__top {
+    height: 86px;
+    padding: 23px 30px;
+  }
+
+  /* line 47, public/css/sass/modules/header/top.scss */
+  .c-hamburguer span {
+    font-size: 46px;
+  }
+
+  /* line 51, public/css/sass/modules/header/top.scss */
+  .c-brand {
+    position: absolute;
+    width: 56%;
+    top: 53%;
+    left: 50%;
+    -webkit-transform: translate3D(-50%, -50%, 0);
+        -ms-transform: translate3D(-50%, -50%, 0);
+            transform: translate3D(-50%, -50%, 0);
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 61, public/css/sass/modules/header/top.scss */
+  .c-header__top {
+    text-align: center;
+    padding: 0;
+    position: relative;
+    height: 82px;
+    z-index: 11;
+  }
+
+  /* line 69, public/css/sass/modules/header/top.scss */
+  .c-hamburguer {
+    display: none;
+  }
+
+  /* line 73, public/css/sass/modules/header/top.scss */
+  .c-brand {
+    margin: 0;
+    position: relative;
+    max-width: 410px;
+    left: auto;
+    top: auto;
+    -webkit-transform: translate3D(0, 0, 0);
+        -ms-transform: translate3D(0, 0, 0);
+            transform: translate3D(0, 0, 0);
+  }
+
+  /* line 83, public/css/sass/modules/header/top.scss */
+  .c-header.is-scrolling .c-header__nav-content {
+    top: -72px;
+  }
+}
+@media all and (min-width: 1280px) {
+  /* line 90, public/css/sass/modules/header/top.scss */
+  .c-header__top {
+    height: 92px;
+  }
+
+  /* line 93, public/css/sass/modules/header/top.scss */
+  .c-brand {
+    margin: 0;
+    max-width: 460px;
+  }
+}
+/* line 1, public/css/sass/modules/header/nav.scss */
+.c-header {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1000;
+}
+
+/* line 9, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content {
+  width: 100%;
+  height: 0%;
+  max-height: 0px;
+  overflow: hidden;
+  background: #333333;
+  transition: max-height 0.35s ease;
+  transition: padding 0.35s ease, height 0.35s ease;
+}
+/* line 19, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+/* line 24, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content ul li {
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
+/* line 31, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content a {
+  text-transform: uppercase;
+  font-size: 14px;
+  width: 100%;
+  display: inline-block;
+  padding: 7px 0 7px;
+  color: #FFF;
+  border-bottom: 2px solid #FFF;
+  transition: padding 0.35s ease;
+}
+/* line 45, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content ul li:last-child a {
+  border-bottom: 0px;
+}
+/* line 49, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-header__social-nav {
+  height: auto;
+}
+/* line 52, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-header__social-nav ul {
+  width: 100%;
+  padding: 18px 0 18px;
+  text-align: center;
+  border-top: 2px solid #FFF;
+}
+/* line 59, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-header__social-nav ul li {
+  width: auto;
+  margin: 0 3px;
+  vertical-align: middle;
+}
+/* line 64, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-header__social-nav ul li a {
+  text-align: center;
+  width: 37px;
+  height: 36px;
+  border: 1px #fff solid;
+  margin-top: 2px;
+}
+/* line 71, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-header__social-nav ul li a span {
+  font-size: 20px;
+  margin: 0 4px;
+}
+/* line 76, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-header__social-nav ul li a .c-icon__instagram {
+  width: 21px;
+}
+/* line 84, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-second-menu {
+  transition: top 0.35s ease;
+}
+/* line 87, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .c-second-menu a {
+  border-bottom: 0;
+  border-top: 2px solid #FFF;
+  transition: padding 0.35s ease;
+}
+/* line 95, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .sub-menu {
+  height: 0%;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 0.30s ease, opacity 0.35s ease;
+  display: none;
+}
+/* line 103, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .sub-menu li a {
+  border: none;
+  padding: 6px 0;
+}
+/* line 108, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .sub-menu li:first-child a {
+  padding: 12px 0 6px;
+}
+/* line 109, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .sub-menu li:last-child a {
+  padding: 6px 0 14px;
+}
+/* line 114, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .menu-item-has-children > a::after {
+  content: '▾';
+  font-size: 18px;
+  vertical-align: middle;
+  display: inline-block;
+  height: auto;
+  margin-left: 8px;
+  margin-top: -18px;
+  height: 8px;
+  -webkit-transform-origin: 5px 12px;
+      -ms-transform-origin: 5px 12px;
+          transform-origin: 5px 12px;
+  color: #FFF;
+  transition: -webkit-transform 0.30s ease;
+  transition: transform 0.30s ease;
+  transition: transform 0.30s ease, -webkit-transform 0.30s ease;
+}
+/* line 131, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .menu-item-has-children.is-active .sub-menu {
+  height: auto;
+  max-height: 999px;
+  opacity: 1;
+  display: block;
+  transition: max-height 0.75s ease, opacity 0.35s ease;
+}
+/* line 139, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .menu-item-has-children.is-active > a {
+  background: #155488;
+}
+/* line 142, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content .menu-item-has-children.is-active > a:after {
+  -webkit-transform: rotate(-180deg);
+      -ms-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}
+/* line 149, public/css/sass/modules/header/nav.scss */
+.c-header__nav-content.is-active {
+  height: 100%;
+  max-height: 999px;
+}
+
+/* line 155, public/css/sass/modules/header/nav.scss */
+.c-menu-link-special {
+  display: none !important;
+}
+
+/* line 157, public/css/sass/modules/header/nav.scss */
+.show-special-link .c-menu-link-special {
+  display: inline-block !important;
+}
+
+@media all and (min-width: 930px) {
+  /* line 162, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content {
+    text-align: center;
+    padding: 15px;
+    max-height: 999px;
+    height: 60px;
+    overflow: inherit;
+    position: relative;
+    top: 0;
+    background: #252525;
+    transition: top 0.30s ease;
+  }
+  /* line 175, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content ul {
+    width: 100%;
+  }
+  /* line 177, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content ul li {
+    text-align: center;
+    width: auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+  }
+  /* line 185, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content ul a {
+    width: auto;
+    display: inline-block;
+    padding: 5px 8px;
+    border: 1px solid #FFF;
+    transition: background 0.35s ease;
+  }
+  /* line 193, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content ul a:hover {
+    background: #9f2a33;
+  }
+  /* line 202, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content ul .btn-a-la-carte a:hover {
+    background: #9f2a33;
+  }
+  /* line 209, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item--btn-alert a {
+    background: #127345;
+    border: 0px;
+    padding: 6px 8px;
+  }
+  /* line 215, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item--btn-alert a:hover {
+    background: #1a5338;
+  }
+  /* line 219, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item-has-children {
+    position: relative;
+  }
+  /* line 222, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item-has-children .sub-menu {
+    position: absolute;
+    top: 45px;
+    left: 0;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    opacity: 0;
+    border: 1px solid #FFF;
+    background: #202020;
+  }
+  /* line 235, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item-has-children .sub-menu li, .c-header__nav-content .menu-item-has-children .sub-menu a {
+    width: 100%;
+  }
+  /* line 236, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item-has-children .sub-menu li a {
+    padding: 6px 0 6px 8px;
+    border-bottom: none;
+  }
+  /* line 240, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item-has-children .sub-menu li {
+    text-align: left;
+  }
+  /* line 243, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item-has-children.is-active .sub-menu {
+    width: 118px;
+  }
+  /* line 248, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .menu-item-has-children.is-active > a {
+    background: transparent;
+  }
+  /* line 253, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content ul li:last-child a {
+    border-bottom: 1px solid #FFF;
+  }
+  /* line 257, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-header__social-nav {
+    position: absolute;
+    top: 13px;
+    right: 10px;
+    width: auto;
+    display: inline-block;
+  }
+  /* line 264, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-header__social-nav ul {
+    width: auto;
+    padding: 0px;
+    text-align: center;
+    border-top: none;
+  }
+  /* line 271, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-header__social-nav ul li {
+    width: auto;
+    margin: 0 3px;
+  }
+  /* line 275, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-header__social-nav ul li a {
+    text-align: center;
+    padding: 2px;
+    width: 29px;
+    height: 29px;
+    border: 1px #fff solid;
+  }
+  /* line 282, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-header__social-nav ul li a span {
+    font-size: 23px;
+    margin: 0;
+  }
+  /* line 287, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-header__social-nav ul li a .c-icon__instagram {
+    width: 23px;
+  }
+  /* line 295, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-second-menu {
+    position: fixed;
+    top: 28px;
+    right: 10px;
+    width: auto;
+    display: inline-block;
+    z-index: 12;
+  }
+  /* line 304, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-second-menu li a {
+    -webkit-transform: scale(1) translateZ(0);
+            transform: scale(1) translateZ(0);
+    border: none !important;
+    background: #155488;
+    transition: opacity 0.25s ease, padding 0,35s ease;
+  }
+  /* line 311, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-second-menu li a:hover {
+    opacity: 0.7;
+  }
+  /* line 316, public/css/sass/modules/header/nav.scss */
+  .c-header__nav-content .c-second-menu li:nth-child(even) a {
+    background: #219a9a;
+  }
+}
+/* line 1, public/css/sass/modules/_highlights.scss */
+.c-highlights {
+  position: relative;
+  height: 212px;
+  overflow: hidden;
+}
+/* line 7, public/css/sass/modules/_highlights.scss */
+.c-highlights .frame {
+  width: 100%;
+  position: relative;
+  font-size: 0;
+  line-height: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+/* line 17, public/css/sass/modules/_highlights.scss */
+.c-highlights .slides {
+  display: inline-block;
+}
+/* line 21, public/css/sass/modules/_highlights.scss */
+.c-highlights li {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  width: 100vw;
+  height: 212px;
+  background: #000;
+}
+/* line 30, public/css/sass/modules/_highlights.scss */
+.c-highlights li img {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -30%);
+      -ms-transform: translate(-50%, -30%);
+          transform: translate(-50%, -30%);
+}
+/* line 40, public/css/sass/modules/_highlights.scss */
+.c-highlights__control {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+/* line 46, public/css/sass/modules/_highlights.scss */
+.c-highlights__control span {
+  font-size: 42px;
+}
+/* line 48, public/css/sass/modules/_highlights.scss */
+.c-highlights__control-next {
+  left: auto;
+  right: 20px;
+}
+/* line 54, public/css/sass/modules/_highlights.scss */
+.c-highlights__info {
+  font-size: 18px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  padding: 10px 16px;
+  z-index: 3;
+  color: #FFF;
+  background: #155488;
+}
+/* line 67, public/css/sass/modules/_highlights.scss */
+.c-highlights__info span {
+  line-height: 1;
+  vertical-align: middle;
+}
+/* line 72, public/css/sass/modules/_highlights.scss */
+.c-highlights__info--pre-estreia {
+  background: #9f2a33;
+}
+/* line 76, public/css/sass/modules/_highlights.scss */
+.c-highlights__info--a-la-carte {
+  background: #f45728;
+}
+/* line 81, public/css/sass/modules/_highlights.scss */
+.c-highlights__category-name {
+  font-weight: bold;
+  display: none;
+  padding-right: 20px;
+  margin-right: 10px;
+  border-right: 2px solid currentColor;
+}
+/* line 89, public/css/sass/modules/_highlights.scss */
+.c-highlights__info-name {
+  font-weight: bold;
+}
+
+@media all and (min-width: 768px) {
+  /* line 93, public/css/sass/modules/_highlights.scss */
+  .c-highlights {
+    height: 400px;
+  }
+  /* line 96, public/css/sass/modules/_highlights.scss */
+  .c-highlights li {
+    height: 400px;
+  }
+  /* line 98, public/css/sass/modules/_highlights.scss */
+  .c-highlights__category-name {
+    display: inline-block;
+  }
+  /* line 102, public/css/sass/modules/_highlights.scss */
+  .c-highlights__info-name {
+    font-weight: normal;
+    display: inline-block;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 111, public/css/sass/modules/_highlights.scss */
+  .c-highlights {
+    height: 600px;
+  }
+  /* line 114, public/css/sass/modules/_highlights.scss */
+  .c-highlights li {
+    height: 600px;
+  }
+  /* line 116, public/css/sass/modules/_highlights.scss */
+  .c-highlights .c-highlights__control {
+    left: 5px;
+    opacity: 0;
+    transition: right 0.35s ease, left 0.35s ease, opacity 0.35s ease;
+  }
+  /* line 122, public/css/sass/modules/_highlights.scss */
+  .c-highlights .c-highlights__control-next {
+    left: auto;
+    right: 5px;
+  }
+  /* line 127, public/css/sass/modules/_highlights.scss */
+  .c-highlights .c-highlights__control span {
+    font-size: 60px;
+  }
+  /* line 131, public/css/sass/modules/_highlights.scss */
+  .c-highlights:hover .c-highlights__control {
+    left: 20px;
+    opacity: 1;
+  }
+  /* line 134, public/css/sass/modules/_highlights.scss */
+  .c-highlights:hover .c-highlights__control-next {
+    left: auto;
+    right: 20px;
+  }
+  /* line 141, public/css/sass/modules/_highlights.scss */
+  .c-highlights__info {
+    font-size: 42px;
+    padding: 15px 25px;
+  }
+}
+/* line 1, public/css/sass/modules/_imprensa.scss */
+.c-imprensa {
+  text-align: center;
+  margin: 10px 0;
+}
+/* line 6, public/css/sass/modules/_imprensa.scss */
+.c-imprensa__item {
+  margin-bottom: 30px;
+}
+/* line 10, public/css/sass/modules/_imprensa.scss */
+.c-imprensa__thumb-link {
+  width: 100%;
+  height: 230px;
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+/* line 17, public/css/sass/modules/_imprensa.scss */
+.c-imprensa__thumb-link img {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: auto;
+  width: 100%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+/* line 29, public/css/sass/modules/_imprensa.scss */
+.c-imprensa__title-link {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 1.3;
+  padding: 12px 10px;
+  width: 100%;
+  display: block;
+  margin-top: -3px;
+  color: #FFF;
+  background: #219a9a;
+}
+
+@media all and (min-width: 768px) {
+  /* line 49, public/css/sass/modules/_imprensa.scss */
+  .c-imprensa__title-link {
+    font-size: 15px;
+    min-height: 100px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  /* line 57, public/css/sass/modules/_imprensa.scss */
+  .c-imprensa__title-link--home {
+    min-height: 62px;
+  }
+  /* line 62, public/css/sass/modules/_imprensa.scss */
+  .c-imprensa__thumb-link {
+    height: 150px;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 70, public/css/sass/modules/_imprensa.scss */
+  .c-imprensa__title-link {
+    height: 71px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    background: none;
+  }
+  /* line 78, public/css/sass/modules/_imprensa.scss */
+  .c-imprensa__thumb-link {
+    height: 180px;
+  }
+}
+/* line 1, public/css/sass/modules/_buttons.scss */
+.o-btn {
+  padding: 5px 10px;
+  height: auto;
+  width: auto;
+}
+/* line 6, public/css/sass/modules/_buttons.scss */
+.o-btn:hover {
+  opacity: 0.6;
+  transition: opacity 0.25s ease;
+}
+/* line 11, public/css/sass/modules/_buttons.scss */
+.o-btn--primary {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 20px 0 10px;
+  display: inline-block;
+  width: auto;
+  border: 1px solid #FFF;
+  color: #FFF;
+  background: #127345;
+}
+/* line 24, public/css/sass/modules/_buttons.scss */
+.o-btn--modal:hover {
+  opacity: 1;
+  transition: none;
+  background: #3163b0;
+}
+
+/* line 2, public/css/sass/modules/_movie.scss */
+.c-movie__info-times {
+  display: none;
+}
+/* line 4, public/css/sass/modules/_movie.scss */
+.c-movie__info-times--open {
+  display: block;
+}
+/* line 6, public/css/sass/modules/_movie.scss */
+.c-movie__trigger-button {
+  border: none;
+  margin: 10px 0 20px;
+  background: #9f2a33;
+}
+/* line 12, public/css/sass/modules/_movie.scss */
+.c-movie__info-times-content--mobile-home {
+  width: 100%;
+  float: right;
+  display: block;
+  padding: 20px 20px 35px;
+  border: 1px solid #FFF;
+}
+/* line 20, public/css/sass/modules/_movie.scss */
+.c-movie__info-times-table--mobile {
+  text-align: left;
+  display: table;
+  position: relative;
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+}
+/* line 28, public/css/sass/modules/_movie.scss */
+.c-movie__info-times-table--mobile td {
+  text-align: center;
+  position: relative;
+  border-right: 1px solid #FFF;
+}
+/* line 33, public/css/sass/modules/_movie.scss */
+.c-movie__info-times-table--mobile td:last-child {
+  border: none;
+}
+/* line 39, public/css/sass/modules/_movie.scss */
+.c-movie__info-times-table {
+  display: none;
+}
+/* line 40, public/css/sass/modules/_movie.scss */
+.c-movie__info-times-table--single {
+  display: table;
+}
+/* line 42, public/css/sass/modules/_movie.scss */
+.c-movie__obs {
+  font-size: 16px;
+  font-style: italic;
+  display: inline-block;
+  width: 100%;
+  margin-top: 5px;
+}
+
+/* line 52, public/css/sass/modules/_movie.scss */
+.c-movie-card__info .c-movie__info-times-table-title--mobile {
+  text-align: left;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 14px 0 8px;
+  padding-top: 12px;
+  border-top: 1px solid #FFF;
+}
+/* line 60, public/css/sass/modules/_movie.scss */
+.c-movie-card__info .c-movie__info-times-table-title--mobile span {
+  font-weight: 400;
+  font-style: italic;
+  margin-left: 6px;
+}
+/* line 66, public/css/sass/modules/_movie.scss */
+.c-movie-card__info .c-movie__info-times-table-title--mobile:first-child {
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* line 74, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--desktop {
+  display: none;
+}
+/* line 75, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--mobile {
+  padding: 0 8px;
+  margin-bottom: 24px;
+}
+/* line 79, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--mobile .c-movie__info-times-table-title {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 14px 0 8px;
+  padding-top: 12px;
+  border-top: 1px solid #FFF;
+}
+/* line 87, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--mobile .c-movie__info-times-table-title span {
+  font-weight: normal;
+  font-style: italic;
+  margin-left: 6px;
+}
+/* line 94, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--mobile .c-movie__info-times-table-title:first-child {
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+/* line 102, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--mobile .c-movie__info-times-table {
+  position: relative;
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+}
+/* line 108, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--mobile .c-movie__info-times-table td {
+  text-align: center;
+  position: relative;
+  border-right: 1px solid #FFF;
+}
+/* line 114, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times-content--mobile .c-movie__info-times-table td:last-child {
+  border: none;
+}
+
+/* line 121, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-times {
+  width: 100%;
+  float: right;
+  display: block;
+  padding: 20px 10px 10px;
+  border: 1px solid #FFF;
+}
+/* line 132, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__synopsis-title {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+/* line 138, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__synopsis-text {
+  font-size: 16px;
+}
+/* line 143, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__thumb-content img {
+  width: 100%;
+  height: auto;
+}
+/* line 149, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie-infos {
+  margin-top: 20px;
+}
+/* line 151, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-tech-specs__info-string {
+  margin: 10px 0 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #FFF;
+}
+/* line 157, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-tech-specs__info-string span {
+  font-style: italic;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 4px;
+  padding-right: 6px;
+  border-right: 1px solid #FFF;
+}
+/* line 167, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-tech-specs__info-string span:last-child {
+  border: none;
+}
+/* line 172, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-tech-specs__info-detail p {
+  font-size: 14px;
+}
+/* line 175, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-tech-specs__info-detail p:nth-child(2), .c-movie-single .c-tech-specs__info-detail p:nth-child(3) {
+  width: 49%;
+  display: inline-block;
+}
+/* line 181, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-tech-specs__info-detail p:nth-child(3) {
+  text-align: right;
+  border-left: 1px solid #FFF;
+}
+/* line 189, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-tech-specs__info-detail strong {
+  text-transform: uppercase;
+  font-weight: 900;
+  display: block;
+}
+/* line 197, public/css/sass/modules/_movie.scss */
+.c-movie-single .c-movie__info-float {
+  text-align: left;
+  width: 100%;
+  display: inline-block;
+  padding: 8px 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background: #155488;
+}
+
+/* line 211, public/css/sass/modules/_movie.scss */
+.c-velox-tickets {
+  margin-top: 20px;
+}
+/* line 214, public/css/sass/modules/_movie.scss */
+.c-velox-tickets iframe {
+  height: 1544px;
+}
+
+@media all and (max-width: 320px) {
+  /* line 221, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-times-content--desktop {
+    display: none;
+  }
+  /* line 222, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-times-content--mobile {
+    padding: 0px;
+  }
+
+  /* line 231, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times .c-movie__info-times-table tbody td {
+    font-size: 13px;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 241, public/css/sass/modules/_movie.scss */
+  .c-movie-card__info-float .u-aligner {
+    display: none;
+  }
+
+  /* line 247, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times {
+    display: none;
+  }
+  /* line 249, public/css/sass/modules/_movie.scss */
+  .c-movie__trigger-button, .c-movie__info-times-content--mobile {
+    display: none;
+  }
+  /* line 254, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times-table {
+    display: block;
+  }
+  /* line 256, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times-content--mobile-home {
+    display: none;
+  }
+  /* line 258, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times {
+    width: 70%;
+    float: right;
+    padding: 30px 32px 20px;
+    border: 1px solid #FFF;
+  }
+  /* line 266, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times .c-movie__info-times-table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #FFF;
+  }
+  /* line 271, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times .c-movie__info-times-table thead th {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 21px 15px;
+    border-bottom: 3px solid #FFF;
+  }
+  /* line 280, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times .c-movie__info-times-table thead th span {
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+    display: block;
+    margin-top: 7px;
+  }
+  /* line 292, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times .c-movie__info-times-table tbody td {
+    font-size: 18px;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 15px;
+  }
+  /* line 299, public/css/sass/modules/_movie.scss */
+  .c-movie__info-times .c-movie__info-times-table tbody td span {
+    line-height: 1.8;
+    display: block;
+  }
+  /* line 308, public/css/sass/modules/_movie.scss */
+  .c-movie__info-float {
+    text-align: left;
+    padding: 10px 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background: #127345;
+  }
+  /* line 317, public/css/sass/modules/_movie.scss */
+  .c-movie__info-room {
+    text-align: left;
+    font-size: 16px;
+    font-style: italic;
+    display: block;
+    margin: 10px auto;
+  }
+
+  /* line 327, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie-infos {
+    margin-top: 50px;
+  }
+  /* line 329, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-times {
+    width: 100%;
+    display: block;
+  }
+  /* line 334, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-room {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: normal;
+  }
+  /* line 340, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-times-table {
+    margin: 0 auto;
+  }
+  /* line 344, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-times-table thead th {
+    padding: 0 25px 15px;
+  }
+  /* line 348, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__synopsis-title {
+    text-align: left;
+    margin-top: 0;
+  }
+  /* line 353, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-tech-specs__info-string {
+    margin: 20px 0;
+    padding-bottom: 0px;
+    border-bottom: 0;
+  }
+  /* line 361, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-tech-specs__info-detail strong {
+    display: inline-block;
+  }
+  /* line 362, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-tech-specs__info-detail p {
+    text-align: left !important;
+    width: 100% !important;
+    border: none !important;
+  }
+
+  /* line 372, public/css/sass/modules/_movie.scss */
+  .c-velox-tickets {
+    width: 100%;
+    height: 750px;
+    overflow-y: scroll;
+    margin-top: 60px;
+  }
+  /* line 378, public/css/sass/modules/_movie.scss */
+  .c-velox-tickets iframe {
+    height: 1285px;
+  }
+
+  /* line 384, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-times-content--desktop {
+    display: block;
+  }
+  /* line 385, public/css/sass/modules/_movie.scss */
+  .c-movie-single .c-movie__info-times-content--mobile {
+    display: none;
+  }
+}
+/* line 3, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule a {
+  color: #fff;
+  text-decoration: underline;
+}
+/* line 8, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule__content-text {
+  margin-bottom: 60px;
+}
+/* line 12, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule__many-movies {
+  display: block;
+  margin-bottom: 60px;
+}
+/* line 17, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule__switch-style {
+  display: block;
+  margin: 0px 0 30px;
+}
+/* line 22, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule__switch-style-trigger {
+  font-size: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+  color: #FFF;
+}
+/* line 32, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule__switch-style-trigger.is-active {
+  font-weight: 900;
+  cursor: not-allowed;
+  border-bottom: 2px solid currentColor;
+}
+/* line 40, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule__switch-style-trigger:first-child {
+  margin-right: 10px;
+  margin-left: 0px;
+}
+/* line 44, public/css/sass/modules/card/_card-hour.scss */
+.c-play-schedule__switch-style-trigger:first-child:after {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  height: 30px;
+  width: 3px;
+  margin-top: -2px;
+  margin-left: 11px;
+  position: absolute;
+  background: #FFF;
+}
+
+/* line 61, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card-grid {
+  border-bottom: 1px solid #FFF;
+  padding: 0 10px 30px;
+  margin-bottom: 40px;
+}
+/* line 66, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card-grid:last-child {
+  border: 0;
+  margin-bottom: -40px;
+}
+
+/* line 73, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card:last-child {
+  border-bottom: 0px;
+}
+/* line 75, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__link {
+  color: #FFF;
+}
+/* line 77, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info-times {
+  display: none;
+}
+/* line 82, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info h3, .c-movie-card__info h4, .c-movie-card__info h5 {
+  text-align: center;
+}
+/* line 87, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__obs {
+  display: none;
+}
+/* line 89, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info-title {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 20px;
+  margin: 0 auto 5px;
+  color: #FFF;
+}
+/* line 99, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info-subtitle {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0px auto 10px;
+  color: #FFF;
+}
+/* line 109, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info-room {
+  text-align: center;
+  font-size: 16px;
+  font-style: italic;
+  display: block;
+  margin: 15px auto;
+}
+/* line 118, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info-synopsistitle {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 16px;
+  margin: 15px auto;
+}
+/* line 126, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info-synopsis {
+  font-size: 16px;
+  line-height: 1.2;
+}
+/* line 131, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__info-comp {
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  margin: 10px auto 20px;
+}
+/* line 139, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__thumb-content {
+  text-align: center;
+}
+/* line 142, public/css/sass/modules/card/_card-hour.scss */
+.c-movie-card__thumb-content img {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #FFF;
+}
+
+@media all and (min-width: 930px) {
+  /* line 154, public/css/sass/modules/card/_card-hour.scss */
+  .c-play-schedule__many-movies {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 70px;
+  }
+
+  /* line 162, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie__info-times {
+    display: block;
+  }
+  /* line 166, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card-grid {
+    border: 0;
+    margin: 0;
+    padding: 0;
+  }
+  /* line 171, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card {
+    clear: both;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  /* line 177, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__thumb-content {
+    float: left;
+    width: 26%;
+    max-height: 350px;
+  }
+  /* line 182, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__thumb-content img {
+    width: 100%;
+  }
+  /* line 185, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__info-float {
+    text-align: left;
+    width: 70%;
+    float: right;
+    display: block;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+    background: #127345;
+  }
+  /* line 198, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__info-title {
+    text-align: left;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+  }
+  /* line 207, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__info-subtitle {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 900;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding-left: 15px;
+    margin-left: -10px;
+  }
+  /* line 218, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__info-subtitle:before {
+    content: '-';
+    margin-left: 2px;
+    margin-right: 8px;
+  }
+  /* line 225, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__info-room {
+    text-align: left;
+    margin: 8px 0 2px;
+  }
+  /* line 231, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__info-sub {
+    display: none;
+  }
+  /* line 233, public/css/sass/modules/card/_card-hour.scss */
+  .c-movie-card-content--hours .c-movie-card__obs {
+    font-style: italic;
+    font-size: 16px;
+    display: block;
+    float: left;
+    width: 70%;
+    margin: 6px 0 10px 30%;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 2, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies {
+    margin: 0 -20px;
+  }
+  /* line 5, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies.movie-card-content--slider {
+    margin: 0;
+  }
+  /* line 8, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies:hover .c-movie-card {
+    opacity: 0.6;
+  }
+  /* line 11, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid {
+    width: 33.33%;
+    float: left;
+    padding: 0 20px;
+    border: 0;
+    margin-bottom: 0;
+  }
+  /* line 18, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info {
+    display: block;
+  }
+  /* line 22, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info-float {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    max-height: 120px;
+    padding: 20px 20px;
+    overflow: hidden;
+    -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+    background: #155488;
+    transition: max-height 0.6s ease;
+  }
+  /* line 35, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info-float .c-movie-card__info-synopsistitle {
+    margin: 30px auto 8px;
+  }
+  /* line 37, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info-float .c-movie-card__info-room {
+    padding-top: 90px;
+  }
+  /* line 41, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info-float .c-movie-card__info-sub,
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info-float .c-movie-card__info-room {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s linear 0.6s, opacity 0.6s ease 0s;
+  }
+  /* line 48, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info-float .c-movie-card__info-title-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    display: block;
+    padding: 0 24px;
+    width: 100%;
+    transition: top 0.5s ease-in-out;
+  }
+  /* line 60, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card__info-float .c-movie-card__info-subtitle {
+    margin: 0;
+  }
+  /* line 64, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card {
+    position: relative;
+    margin-bottom: 40px;
+    padding-bottom: 120px;
+    border: 1px solid #e7e7e7;
+    transition: opacity 0.4s ease;
+  }
+  /* line 72, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card .c-movie-card__thumb-content {
+    height: 390px;
+  }
+  /* line 75, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card .c-movie-card__thumb-content img {
+    width: 100%;
+    max-width: 310px;
+  }
+  /* line 81, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card:hover {
+    opacity: 1;
+  }
+  /* line 84, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float {
+    max-height: 570px;
+    transition: max-height 0.45s ease;
+  }
+  /* line 88, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float .c-movie-card__info-sub,
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float .c-movie-card__info-room {
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0s linear 0s, opacity 0.5s ease 0s;
+  }
+  /* line 95, public/css/sass/modules/card/_card-movie.scss */
+  .c-movie-card-content--movies .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float .c-movie-card__info-title-content {
+    top: 12%;
+    transition: top 0.3s ease;
+  }
+}
+/* line 3, public/css/sass/modules/card/_card-schedule.scss */
+.c-movie-card-content--schedule .c-movie-card__info-title {
+  text-align: center;
+  font-size: 24px;
+  max-width: 250px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+/* line 12, public/css/sass/modules/card/_card-schedule.scss */
+.c-movie-card-content--schedule .c-movie-card__info-synopsis {
+  margin: 10px auto;
+  margin-bottom: 20px;
+  height: auto;
+}
+
+@media all and (min-width: 930px) {
+  /* line 23, public/css/sass/modules/card/_card-schedule.scss */
+  .c-movie-card-content--schedule {
+    padding: 20px 20px;
+  }
+  /* line 26, public/css/sass/modules/card/_card-schedule.scss */
+  .c-movie-card-content--schedule .c-movie-card__info-title-content {
+    margin-top: 15px;
+  }
+  /* line 29, public/css/sass/modules/card/_card-schedule.scss */
+  .c-movie-card-content--schedule .c-movie-card__info-title-content .c-movie-card__info-title {
+    font-size: 18px;
+  }
+  /* line 34, public/css/sass/modules/card/_card-schedule.scss */
+  .c-movie-card-content--schedule .c-movie-card__info-synopsis {
+    margin-top: 100px;
+  }
+}
+/* line 3, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card-grid,
+.c-noitao .c-movie-card-grid {
+  border: 0;
+}
+/* line 4, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card,
+.c-noitao .c-movie-card {
+  border: 1px solid #e7e7e7;
+}
+/* line 7, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card .c-movie-card__info,
+.c-noitao .c-movie-card .c-movie-card__info {
+  display: none;
+}
+/* line 11, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card .c-movie-card__hour-string,
+.c-noitao .c-movie-card .c-movie-card__hour-string {
+  font-size: 14px;
+  font-weight: bold;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+/* line 21, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card .c-movie-card__info--mobile,
+.c-noitao .c-movie-card .c-movie-card__info--mobile {
+  position: absolute;
+  bottom: 1px;
+  left: 1px;
+  width: calc(100% - 2px);
+  height: 100%;
+  max-height: 110px;
+  padding: 20px 20px;
+  overflow: hidden;
+  display: block;
+  background: #155488;
+}
+/* line 35, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card .c-movie-card__info-title-content,
+.c-noitao .c-movie-card .c-movie-card__info-title-content {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  display: block;
+  padding: 0 24px;
+  width: 100%;
+}
+/* line 45, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card .c-movie-card__info-title,
+.c-noitao .c-movie-card .c-movie-card__info-title {
+  font-size: 14px;
+}
+/* line 47, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in .c-movie-card .c-movie-card__info-subtitle,
+.c-noitao .c-movie-card .c-movie-card__info-subtitle {
+  display: none;
+}
+
+/* line 52, public/css/sass/modules/card/_card-slider.scss */
+.c-drive-in p {
+  font-weight: 300;
+}
+
+/* line 57, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider {
+  position: relative;
+  height: auto;
+  margin: 0 0 40px;
+  overflow: hidden;
+}
+/* line 63, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider:before, .c-movies__slider:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 55px;
+  height: 100%;
+  z-index: 10;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+78 */
+  /* FF3.6-15 */
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #202020 0%, rgba(0, 0, 0, 0) 88%, rgba(0, 0, 0, 0) 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color1', endColorstr='#00000000',GradientType=1 );
+  /* IE6-9 */
+}
+/* line 75, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider:after {
+  right: 0;
+  left: inherit;
+  -webkit-transform: scaleX(-1);
+      -ms-transform: scaleX(-1);
+          transform: scaleX(-1);
+}
+/* line 81, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider-control {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: 11;
+}
+/* line 88, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider-control span {
+  font-size: 90px;
+  -webkit-transform: scale(0.8, 1);
+      -ms-transform: scale(0.8, 1);
+          transform: scale(0.8, 1);
+}
+/* line 93, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider-control-next {
+  left: auto;
+  right: 10px;
+}
+/* line 100, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider .frame {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+/* line 107, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider-title {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 26px;
+}
+/* line 116, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider-subtitle {
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: -26px;
+}
+/* line 125, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider .slides {
+  display: inline-block;
+  width: 9999px;
+}
+/* line 130, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider .c-movie__slide {
+  width: 200px;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  float: none;
+  margin-right: 12px;
+  padding: 0;
+  margin-bottom: 0;
+  -webkit-transform: translateX(34%);
+      -ms-transform: translateX(34%);
+          transform: translateX(34%);
+}
+/* line 141, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider .c-movie__slide .c-movie-card .c-movie-card__thumb-content {
+  height: 360px;
+  overflow: hidden;
+}
+/* line 148, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider--first-slide:before,
+.c-movies__slider--first-slide .c-movies__slider-control-prev {
+  display: none;
+}
+/* line 153, public/css/sass/modules/card/_card-slider.scss */
+.c-movies__slider--last-slide:after,
+.c-movies__slider--last-slide .c-movies__slider-control-next {
+  display: none;
+}
+
+@media all and (min-width: 768px) {
+  /* line 161, public/css/sass/modules/card/_card-slider.scss */
+  .c-movies__slider .c-movie__slide {
+    width: 307px;
+    -webkit-transform: translateX(23%);
+        -ms-transform: translateX(23%);
+            transform: translateX(23%);
+  }
+  /* line 164, public/css/sass/modules/card/_card-slider.scss */
+  .c-movies__slider .c-movie__slide .c-movie-card .c-movie-card__thumb-content {
+    height: 440px;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 170, public/css/sass/modules/card/_card-slider.scss */
+  .c-movie-card-content--drive-in {
+    margin: 0;
+  }
+
+  /* line 173, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid,
+  .c-noitao .c-movie-card-grid {
+    width: 263px;
+    border: 0;
+  }
+  /* line 177, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card,
+  .c-noitao .c-movie-card-grid .c-movie-card {
+    margin-bottom: 0px;
+    border: 1px solid #e7e7e7;
+  }
+  /* line 181, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info {
+    display: block;
+  }
+  /* line 185, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info-float,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info-float {
+    max-height: 148px;
+  }
+  /* line 188, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info-float .c-movie-card__info-title-content,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info-float .c-movie-card__info-title-content {
+    top: 60%;
+  }
+  /* line 190, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info-float .c-movie-card__info-sub,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info-float .c-movie-card__info-sub {
+    padding-top: 130px;
+  }
+  /* line 193, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info-float .c-movie-card__info-sub .c-movie-card__info-line,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info-float .c-movie-card__info-sub .c-movie-card__info-line {
+    display: block;
+    margin-bottom: 6px;
+  }
+  /* line 202, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__hour-string,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__hour-string {
+    font-size: 16px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+  /* line 211, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info--mobile,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info--mobile {
+    display: none;
+  }
+  /* line 215, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info-title,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info-title {
+    font-size: 18px;
+  }
+  /* line 217, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card .c-movie-card__info-subtitle,
+  .c-noitao .c-movie-card-grid .c-movie-card .c-movie-card__info-subtitle {
+    display: block;
+  }
+  /* line 220, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float,
+  .c-noitao .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float {
+    max-height: 260px;
+  }
+  /* line 222, public/css/sass/modules/card/_card-slider.scss */
+  .c-drive-in .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float .c-movie-card__info-title-content,
+  .c-noitao .c-movie-card-grid .c-movie-card:hover .c-movie-card__info-float .c-movie-card__info-title-content {
+    top: 35%;
+  }
+
+  /* line 232, public/css/sass/modules/card/_card-slider.scss */
+  .c-noitao .c-movie-card-grid {
+    width: 300px;
+  }
+
+  /* line 236, public/css/sass/modules/card/_card-slider.scss */
+  .c-movies__slider-title {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  /* line 241, public/css/sass/modules/card/_card-slider.scss */
+  .c-movies__slider .c-movie__slide {
+    -webkit-transform: translateX(0%);
+        -ms-transform: translateX(0%);
+            transform: translateX(0%);
+  }
+  /* line 243, public/css/sass/modules/card/_card-slider.scss */
+  .c-movies__slider .c-movie__slide .c-movie-card .c-movie-card__thumb-content {
+    height: 370px;
+  }
+  /* line 246, public/css/sass/modules/card/_card-slider.scss */
+  .c-movies__slider .c-movies__slider-control span {
+    font-size: 134px;
+  }
+
+  /* line 250, public/css/sass/modules/card/_card-slider.scss */
+  .c-movies__slider--see-all:before, .c-movies__slider--see-all:after,
+  .c-movies__slider--see-all .c-movies__slider-control {
+    display: none;
+  }
+}
+/* line 1, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__info-string {
+  font-size: 16px;
+  font-style: italic;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  display: block;
+}
+/* line 9, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__info-string--director {
+  margin-top: 7px;
+  display: block;
+}
+
+/* line 15, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__description {
+  margin-bottom: 40px;
+}
+
+/* line 19, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__content-info {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+/* line 25, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__synopsis-title {
+  text-align: center;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin: 40px 0 10px;
+}
+
+/* line 36, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box,
+.c-special-schedule__no-movies .c-one-movie-box,
+.c-special-schedule__one-movie .c-no-movies-box,
+.c-special-schedule__one-movie .c-one-movie-box {
+  text-align: center;
+  padding: 15px 5px 10px;
+  margin: 15px 0 0px;
+  border: 1px solid #FFF;
+}
+/* line 44, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__schedule,
+.c-special-schedule__no-movies .c-one-movie-box__schedule,
+.c-special-schedule__one-movie .c-no-movies-box__schedule,
+.c-special-schedule__one-movie .c-one-movie-box__schedule {
+  display: block;
+  margin-bottom: 10px;
+}
+/* line 49, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__schedule-inline, .c-special-schedule__no-movies .c-no-movies-box__price-inline,
+.c-special-schedule__no-movies .c-one-movie-box__schedule-inline,
+.c-special-schedule__no-movies .c-one-movie-box__price-inline,
+.c-special-schedule__one-movie .c-no-movies-box__schedule-inline,
+.c-special-schedule__one-movie .c-no-movies-box__price-inline,
+.c-special-schedule__one-movie .c-one-movie-box__schedule-inline,
+.c-special-schedule__one-movie .c-one-movie-box__price-inline {
+  text-transform: uppercase;
+  display: inline-block;
+  vertical-align: middle;
+}
+/* line 56, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__price,
+.c-special-schedule__no-movies .c-one-movie-box__price,
+.c-special-schedule__one-movie .c-no-movies-box__price,
+.c-special-schedule__one-movie .c-one-movie-box__price {
+  display: block;
+  margin-bottom: 20px;
+}
+/* line 61, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__schedul-info,
+.c-special-schedule__no-movies .c-one-movie-box__schedul-info,
+.c-special-schedule__one-movie .c-no-movies-box__schedul-info,
+.c-special-schedule__one-movie .c-one-movie-box__schedul-info {
+  margin-bottom: 20px;
+}
+/* line 64, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__schedul-info span,
+.c-special-schedule__no-movies .c-one-movie-box__schedul-info span,
+.c-special-schedule__one-movie .c-no-movies-box__schedul-info span,
+.c-special-schedule__one-movie .c-one-movie-box__schedul-info span {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+/* line 70, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__schedul-info-bordered,
+.c-special-schedule__no-movies .c-one-movie-box__schedul-info-bordered,
+.c-special-schedule__one-movie .c-no-movies-box__schedul-info-bordered,
+.c-special-schedule__one-movie .c-one-movie-box__schedul-info-bordered {
+  line-height: 0.99;
+  padding-left: 10px;
+  margin-left: 5px;
+  border-left: 1px solid #FFF;
+}
+/* line 79, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__day-info,
+.c-special-schedule__no-movies .c-one-movie-box__day-info,
+.c-special-schedule__one-movie .c-no-movies-box__day-info,
+.c-special-schedule__one-movie .c-one-movie-box__day-info {
+  margin: 5px 0;
+}
+/* line 81, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-no-movies-box__day-info span,
+.c-special-schedule__no-movies .c-one-movie-box__day-info span,
+.c-special-schedule__one-movie .c-no-movies-box__day-info span,
+.c-special-schedule__one-movie .c-one-movie-box__day-info span {
+  display: inline-block;
+  vertical-align: middle;
+}
+/* line 88, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies .c-one-movie-box,
+.c-special-schedule__one-movie .c-one-movie-box {
+  margin-top: 35px;
+}
+/* line 90, public/css/sass/pages/_special-schedule.scss */
+.c-special-schedule__no-movies-observation,
+.c-special-schedule__one-movie-observation {
+  font-size: 14px;
+  font-style: italic;
+  display: block;
+  margin-top: 5px;
+}
+
+/* line 99, public/css/sass/pages/_special-schedule.scss */
+.c-drive-in__menu-btn {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+/* line 104, public/css/sass/pages/_special-schedule.scss */
+.c-drive-in__menu-btn--menu {
+  width: 110px;
+  height: 64px;
+  margin-bottom: 20px;
+  display: block;
+  background-size: cover;
+  background-image: url("/wp-content/themes/caixa-belas-artes-v2/public/images/drive-in/drive-in-menu-btn.png");
+}
+/* line 113, public/css/sass/pages/_special-schedule.scss */
+.c-drive-in__menu-btn--drinks {
+  width: 158px;
+  height: 50px;
+  display: block;
+  background-size: cover;
+  background-image: url("/wp-content/themes/caixa-belas-artes-v2/public/images/drive-in/drive-in-drinks-btn.png");
+}
+
+/* line 122, public/css/sass/pages/_special-schedule.scss */
+.c-drive-in__top {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+/* line 128, public/css/sass/pages/_special-schedule.scss */
+.c-drive-in__top-bg {
+  width: auto;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+/* line 138, public/css/sass/pages/_special-schedule.scss */
+.c-drive-in__top-brand {
+  width: 230px;
+  height: auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+@media all and (min-width: 768px) {
+  /* line 149, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__synopsis-title {
+    text-align: left;
+    margin: 24px 0 8px;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 157, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__content-info {
+    margin: 40px 0 20px;
+  }
+
+  /* line 163, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__no-movies .c-no-movies-box,
+  .c-special-schedule__no-movies .c-one-movie-box,
+  .c-special-schedule__one-movie .c-no-movies-box,
+  .c-special-schedule__one-movie .c-one-movie-box {
+    text-align: left;
+    padding: 30px 40px 30px;
+    margin: 36px 0 0px;
+  }
+  /* line 169, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__no-movies .c-no-movies-box__left,
+  .c-special-schedule__no-movies .c-one-movie-box__left,
+  .c-special-schedule__one-movie .c-no-movies-box__left,
+  .c-special-schedule__one-movie .c-one-movie-box__left {
+    width: 54.4%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  /* line 175, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__no-movies .c-no-movies-box__right,
+  .c-special-schedule__no-movies .c-one-movie-box__right,
+  .c-special-schedule__one-movie .c-no-movies-box__right,
+  .c-special-schedule__one-movie .c-one-movie-box__right {
+    text-align: right;
+    width: 44%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  /* line 183, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__no-movies .c-no-movies-box__schedul-info,
+  .c-special-schedule__no-movies .c-one-movie-box__schedul-info,
+  .c-special-schedule__one-movie .c-no-movies-box__schedul-info,
+  .c-special-schedule__one-movie .c-one-movie-box__schedul-info {
+    margin-bottom: 0;
+  }
+  /* line 185, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__no-movies .c-no-movies-box__price,
+  .c-special-schedule__no-movies .c-one-movie-box__price,
+  .c-special-schedule__one-movie .c-no-movies-box__price,
+  .c-special-schedule__one-movie .c-one-movie-box__price {
+    margin-bottom: 0px;
+  }
+  /* line 189, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__no-movies .c-no-movies-box__buy-link,
+  .c-special-schedule__no-movies .c-one-movie-box__buy-link,
+  .c-special-schedule__one-movie .c-no-movies-box__buy-link,
+  .c-special-schedule__one-movie .c-one-movie-box__buy-link {
+    margin: 0;
+  }
+  /* line 191, public/css/sass/pages/_special-schedule.scss */
+  .c-special-schedule__no-movies .c-no-movies-box-observation,
+  .c-special-schedule__no-movies .c-one-movie-box-observation,
+  .c-special-schedule__one-movie .c-no-movies-box-observation,
+  .c-special-schedule__one-movie .c-one-movie-box-observation {
+    margin-bottom: 30px;
+  }
+
+  /* line 195, public/css/sass/pages/_special-schedule.scss */
+  .c-drive-in__menu-btn {
+    display: inline-block;
+    margin: 10px 0;
+  }
+  /* line 199, public/css/sass/pages/_special-schedule.scss */
+  .c-drive-in__menu-btn--menu {
+    width: 180px;
+    height: 107px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+  }
+  /* line 207, public/css/sass/pages/_special-schedule.scss */
+  .c-drive-in__menu-btn--drinks {
+    width: 246px;
+    height: 85px;
+  }
+
+  /* line 213, public/css/sass/pages/_special-schedule.scss */
+  .c-drive-in__top {
+    position: relative;
+    width: 100%;
+    height: 296px;
+    overflow: hidden;
+  }
+  /* line 219, public/css/sass/pages/_special-schedule.scss */
+  .c-drive-in__top-bg {
+    width: 1920px;
+    height: 300px;
+  }
+  /* line 225, public/css/sass/pages/_special-schedule.scss */
+  .c-drive-in__top-brand {
+    width: 416px;
+    height: auto;
+  }
+}
+/* line 3, public/css/sass/pages/_locacao.scss */
+.c-locacao__container {
+  margin-top: 50px;
+}
+/* line 7, public/css/sass/pages/_locacao.scss */
+.c-locacao__content {
+  padding: 20px 8px;
+  padding-bottom: 0px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+/* line 14, public/css/sass/pages/_locacao.scss */
+.c-locacao__image-content {
+  position: relative;
+  width: 100%;
+  height: 94px;
+  overflow: hidden;
+  border: 1px solid #FFF;
+}
+/* line 22, public/css/sass/pages/_locacao.scss */
+.c-locacao__image-content img {
+  width: auto;
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+/* line 32, public/css/sass/pages/_locacao.scss */
+.c-locacao__room {
+  text-transform: uppercase;
+  width: 100%;
+  height: auto;
+  max-height: 132px;
+  margin-bottom: 30px;
+}
+/* line 40, public/css/sass/pages/_locacao.scss */
+.c-locacao__description {
+  margin-top: 5px;
+}
+/* line 44, public/css/sass/pages/_locacao.scss */
+.c-locacao__number {
+  font-size: 16px;
+  margin: 0px;
+}
+/* line 50, public/css/sass/pages/_locacao.scss */
+.c-locacao__title {
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+/* line 57, public/css/sass/pages/_locacao.scss */
+.js-modal-image-gallery-btn {
+  color: #FFF;
+}
+
+@media all and (min-width: 361px) and (max-width: 767px) {
+  /* line 63, public/css/sass/pages/_locacao.scss */
+  .c-locacao__room {
+    max-height: inherit;
+  }
+  /* line 67, public/css/sass/pages/_locacao.scss */
+  .c-locacao__image-content {
+    height: 164px;
+  }
+}
+@media all and (min-width: 768px) {
+  /* line 78, public/css/sass/pages/_locacao.scss */
+  .c-locacao__room {
+    max-height: inherit;
+  }
+  /* line 82, public/css/sass/pages/_locacao.scss */
+  .c-locacao__image-content {
+    height: 124px;
+  }
+  /* line 86, public/css/sass/pages/_locacao.scss */
+  .c-locacao__number {
+    font-size: 14px;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 96, public/css/sass/pages/_locacao.scss */
+  .c-locacao__content {
+    padding: 0px;
+    margin-bottom: 60px;
+  }
+  /* line 101, public/css/sass/pages/_locacao.scss */
+  .c-locacao__image-content {
+    height: 180px;
+  }
+  /* line 105, public/css/sass/pages/_locacao.scss */
+  .c-locacao__room {
+    margin-bottom: 40px;
+  }
+  /* line 109, public/css/sass/pages/_locacao.scss */
+  .c-locacao__title {
+    font-size: 14px;
+    margin-top: 3px;
+  }
+  /* line 115, public/css/sass/pages/_locacao.scss */
+  .c-locacao__number {
+    font-size: 18px;
+    margin-top: 0px;
+  }
+  /* line 121, public/css/sass/pages/_locacao.scss */
+  .c-locacao__description {
+    margin-top: 10px;
+  }
+}
+/* line 1, public/css/sass/pages/_anuncie.scss */
+.c-anuncie {
+  padding: 0 20px;
+}
+/* line 4, public/css/sass/pages/_anuncie.scss */
+.c-anuncie__thumbnail {
+  margin-top: 23px;
+}
+/* line 7, public/css/sass/pages/_anuncie.scss */
+.c-anuncie__thumbnail img {
+  width: 100%;
+  height: auto;
+}
+/* line 13, public/css/sass/pages/_anuncie.scss */
+.c-anuncie__content {
+  width: 100%;
+}
+
+@media all and (min-width: 768px) {
+  /* line 21, public/css/sass/pages/_anuncie.scss */
+  .c-anuncie__thumbnail {
+    margin-top: 23px;
+  }
+  /* line 25, public/css/sass/pages/_anuncie.scss */
+  .c-anuncie__content {
+    margin-top: 23px;
+  }
+  /* line 28, public/css/sass/pages/_anuncie.scss */
+  .c-anuncie__content p {
+    font-size: 16px;
+    margin-top: 0px;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 39, public/css/sass/pages/_anuncie.scss */
+  .c-anuncie__thumbnail {
+    margin-top: 0px;
+  }
+  /* line 42, public/css/sass/pages/_anuncie.scss */
+  .c-anuncie__thumbnail img {
+    width: 100%;
+    height: auto;
+  }
+  /* line 48, public/css/sass/pages/_anuncie.scss */
+  .c-anuncie__content {
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+  }
+  /* line 54, public/css/sass/pages/_anuncie.scss */
+  .c-anuncie__content p {
+    font-size: 20px;
+    margin-top: 0px;
+  }
+}
+/* line 1, public/css/sass/pages/_sobre.scss */
+.c-sobre {
+  padding: 0 20px;
+}
+
+@media all and (max-width: 767px) {
+  /* line 8, public/css/sass/pages/_sobre.scss */
+  .c-sobre__content p img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+  }
+}
+@media all and (min-width: 768px) {
+  /* line 18, public/css/sass/pages/_sobre.scss */
+  .c-sobre {
+    padding: 0px;
+  }
+  /* line 21, public/css/sass/pages/_sobre.scss */
+  .c-sobre__content {
+    padding: 0 20px;
+  }
+  /* line 25, public/css/sass/pages/_sobre.scss */
+  .c-sobre__content p img {
+    margin: 0px 11px 11px 0;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 34, public/css/sass/pages/_sobre.scss */
+  .c-sobre {
+    padding: 0;
+  }
+  /* line 37, public/css/sass/pages/_sobre.scss */
+  .c-sobre__content {
+    padding: 0 20px;
+  }
+  /* line 41, public/css/sass/pages/_sobre.scss */
+  .c-sobre__content p img {
+    margin-bottom: 0px;
+  }
+}
+/* line 1, public/css/sass/pages/_localizacao.scss */
+.c-map {
+  height: 400px;
+  width: 100%;
+}
+
+/* line 6, public/css/sass/pages/_localizacao.scss */
+.c-localizacao {
+  padding: 0 20px;
+}
+/* line 9, public/css/sass/pages/_localizacao.scss */
+.c-localizacao__address {
+  margin-top: 20px;
+}
+/* line 13, public/css/sass/pages/_localizacao.scss */
+.c-localizacao__title {
+  margin: 80px 0 50px 0;
+}
+/* line 17, public/css/sass/pages/_localizacao.scss */
+.c-localizacao__info {
+  margin-top: 80px;
+}
+/* line 20, public/css/sass/pages/_localizacao.scss */
+.c-localizacao__info p {
+  font-size: 14px;
+}
+
+/* line 28, public/css/sass/pages/_localizacao.scss */
+.c-parkings__item {
+  border-bottom: 1px solid white;
+}
+/* line 32, public/css/sass/pages/_localizacao.scss */
+.c-parkings__item:last-child {
+  border-bottom: 0;
+}
+/* line 36, public/css/sass/pages/_localizacao.scss */
+.c-parkings__title {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+/* line 45, public/css/sass/pages/_localizacao.scss */
+.c-parkings__content h3 {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+/* line 49, public/css/sass/pages/_localizacao.scss */
+.c-parkings__content h3 sup {
+  position: relative;
+  top: 3px;
+}
+/* line 55, public/css/sass/pages/_localizacao.scss */
+.c-parkings__content p {
+  font-size: 18px;
+}
+
+@media all and (min-width: 768px) {
+  /* line 63, public/css/sass/pages/_localizacao.scss */
+  .c-map {
+    margin-top: 20px;
+    height: 500px;
+    width: 100%;
+  }
+
+  /* line 69, public/css/sass/pages/_localizacao.scss */
+  .c-localizacao {
+    padding: 0px;
+  }
+  /* line 72, public/css/sass/pages/_localizacao.scss */
+  .c-localizacao__address {
+    margin-top: 25px;
+  }
+  /* line 76, public/css/sass/pages/_localizacao.scss */
+  .c-localizacao__title {
+    margin: 80px 0 70px 0;
+  }
+
+  /* line 82, public/css/sass/pages/_localizacao.scss */
+  .c-parkings {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  /* line 88, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__content p {
+    font-size: 16px;
+  }
+  /* line 93, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item {
+    float: left;
+    padding-bottom: 50px;
+    border-bottom: 0px;
+  }
+  /* line 98, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item:nth-child(odd) {
+    width: 50%;
+    height: auto;
+    border-right: 2px solid #FFF;
+    padding-right: 8%;
+  }
+  /* line 105, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item:nth-child(even) {
+    width: 50%;
+    height: auto;
+    padding-left: 8%;
+  }
+  /* line 112, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__title {
+    margin: 0px;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 119, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item:nth-child(odd) {
+    width: 50%;
+    clear: both;
+    padding-right: 10%;
+  }
+
+  /* line 125, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item:nth-child(even) {
+    width: 50%;
+    padding-left: 10%;
+  }
+
+  /* line 130, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item {
+    padding-bottom: 20px;
+  }
+}
+@media all and (min-width: 1280px) {
+  /* line 136, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item:nth-child(odd) {
+    padding-right: 12%;
+  }
+
+  /* line 139, public/css/sass/pages/_localizacao.scss */
+  .c-parkings__item:nth-child(even) {
+    padding-left: 12%;
+  }
+}
+/* line 3, public/css/sass/pages/_trabalhe-conosco.scss */
+.c-trabalhe-conosco .contact-form label {
+  width: 100%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+/* line 8, public/css/sass/pages/_trabalhe-conosco.scss */
+.c-trabalhe-conosco .contact-form label input {
+  width: 100%;
+  height: 35px;
+  margin-bottom: 10px;
+}
+/* line 14, public/css/sass/pages/_trabalhe-conosco.scss */
+.c-trabalhe-conosco .contact-form label textarea {
+  width: 100%;
+  height: 130px;
+  margin-bottom: 5px;
+}
+/* line 21, public/css/sass/pages/_trabalhe-conosco.scss */
+.c-trabalhe-conosco .contact-form button {
+  float: right;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.42;
+  text-transform: uppercase;
+  background: #9f2a33;
+  color: #FFF;
+  cursor: pointer;
+}
+/* line 31, public/css/sass/pages/_trabalhe-conosco.scss */
+.c-trabalhe-conosco .contact-form button:hover {
+  background: #721e24;
+}
+
+/* line 4, public/css/sass/pages/_home.scss */
+body .c-belas-artes-grupo__content, body .c-belas-artes-grupo__content p {
+  max-width: 100%;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: left;
+}
+
+/* line 15, public/css/sass/pages/_home.scss */
+body .u-image-responsive img {
+  width: 100%;
+}
+
+/* line 3, public/css/sass/pages/_404.scss */
+.c-404__subtitle-alert {
+  margin: 23px;
+  font-size: 18px;
+  font-weight: 700;
+}
+/* line 9, public/css/sass/pages/_404.scss */
+.c-404__btn-back-home {
+  background: #155488;
+  padding: 6px 12px 5px;
+  text-transform: uppercase;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: 300;
+}
+/* line 17, public/css/sass/pages/_404.scss */
+.c-404__btn-back-home:hover {
+  background: #3163b0;
+}
+
+/* line 6, public/css/sass/pages/_regrinhas.scss */
+.c-regras__content p .u-wrap-link {
+  word-wrap: break-word;
+}
+
+/* line 2, public/css/sass/pages/_parceiros.scss */
+.c-parcerias__container {
+  width: 100%;
+  height: auto;
+  background-color: #FFF;
+  margin: 0 0 22px;
+  padding: 10px;
+}
+/* line 10, public/css/sass/pages/_parceiros.scss */
+.c-parcerias__logos {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  display: inline-block;
+}
+/* line 15, public/css/sass/pages/_parceiros.scss */
+.c-parcerias__logos img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 100%;
+  height: auto;
+}
+/* line 28, public/css/sass/pages/_parceiros.scss */
+.c-parcerias__banner {
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+@media all and (min-width: 768px) {
+  /* line 37, public/css/sass/pages/_parceiros.scss */
+  .c-parcerias__logos {
+    height: 132px;
+  }
+  /* line 41, public/css/sass/pages/_parceiros.scss */
+  .c-parcerias__banner {
+    max-width: 100%;
+    margin-top: 30px;
+  }
+}
+/* line 1, public/css/sass/pages/_a-la-carte.scss */
+.c-a-la-carte {
+  padding: 0;
+}
+/* line 4, public/css/sass/pages/_a-la-carte.scss */
+.c-a-la-carte * {
+  letter-spacing: 0;
+}
+/* line 8, public/css/sass/pages/_a-la-carte.scss */
+.c-a-la-carte__title {
+  font-family: "luthier", serif, "Times new roman", Times, serif;
+  text-align: left;
+  padding: 0;
+  font-size: 30px;
+  text-transform: none;
+  margin-bottom: 10px;
+}
+/* line 17, public/css/sass/pages/_a-la-carte.scss */
+.c-a-la-carte__content {
+  text-align: left;
+}
+/* line 20, public/css/sass/pages/_a-la-carte.scss */
+.c-a-la-carte__content h2 {
+  font-family: "tt-hoves", sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0;
+  letter-spacing: 0;
+}
+/* line 28, public/css/sass/pages/_a-la-carte.scss */
+.c-a-la-carte__content p {
+  font-size: 18px;
+  font-family: "tt-hoves", sans-serif, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  max-width: 540px;
+}
+/* line 36, public/css/sass/pages/_a-la-carte.scss */
+.c-a-la-carte__btn {
+  display: block;
+  text-align: center;
+}
+@media all and (min-width: 768px) {
+  /* line 1, public/css/sass/pages/_a-la-carte.scss */
+  .c-a-la-carte {
+    padding-top: 26px;
+  }
+  /* line 46, public/css/sass/pages/_a-la-carte.scss */
+  .c-a-la-carte__thumb img {
+    max-width: 100%;
+    height: auto;
+  }
+  /* line 52, public/css/sass/pages/_a-la-carte.scss */
+  .c-a-la-carte__btn {
+    margin-top: -70px;
+    float: right;
+    display: inline-block;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 1, public/css/sass/pages/_a-la-carte.scss */
+  .c-a-la-carte {
+    padding-top: 80px;
+  }
+  /* line 63, public/css/sass/pages/_a-la-carte.scss */
+  .c-a-la-carte__title {
+    font-size: 42px;
+    margin: 50px 0 10px;
+  }
+  /* line 70, public/css/sass/pages/_a-la-carte.scss */
+  .c-a-la-carte__content h2 {
+    font-size: 30px;
+  }
+  /* line 74, public/css/sass/pages/_a-la-carte.scss */
+  .c-a-la-carte__content p {
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  /* line 86, public/css/sass/pages/_a-la-carte.scss */
+  .c-sobre__content p img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+  }
+}
+@media all and (min-width: 768px) {
+  /* line 96, public/css/sass/pages/_a-la-carte.scss */
+  .c-sobre {
+    padding: 0px;
+  }
+  /* line 99, public/css/sass/pages/_a-la-carte.scss */
+  .c-sobre__content {
+    padding: 0 20px;
+  }
+  /* line 103, public/css/sass/pages/_a-la-carte.scss */
+  .c-sobre__content p img {
+    margin: 0px 11px 11px 0;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 112, public/css/sass/pages/_a-la-carte.scss */
+  .c-sobre {
+    padding: 0;
+  }
+  /* line 115, public/css/sass/pages/_a-la-carte.scss */
+  .c-sobre__content {
+    padding: 0 20px;
+  }
+  /* line 119, public/css/sass/pages/_a-la-carte.scss */
+  .c-sobre__content p img {
+    margin-bottom: 0px;
+  }
+}
+/* line 1, public/css/sass/pages/_novo-drive-in.scss */
+.c-new-drive-in {
+  padding: 0;
+}
+/* line 4, public/css/sass/pages/_novo-drive-in.scss */
+.c-new-drive-in * {
+  letter-spacing: 0;
+}
+/* line 8, public/css/sass/pages/_novo-drive-in.scss */
+.c-new-drive-in__title {
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  text-align: left;
+  padding: 0;
+  font-size: 30px;
+  text-transform: none;
+  margin-bottom: 10px;
+}
+/* line 17, public/css/sass/pages/_novo-drive-in.scss */
+.c-new-drive-in__content {
+  text-align: left;
+}
+/* line 20, public/css/sass/pages/_novo-drive-in.scss */
+.c-new-drive-in__content h2 {
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0;
+  letter-spacing: 0;
+}
+/* line 28, public/css/sass/pages/_novo-drive-in.scss */
+.c-new-drive-in__content p {
+  font-size: 18px;
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 695px;
+}
+/* line 36, public/css/sass/pages/_novo-drive-in.scss */
+.c-new-drive-in__btn {
+  display: block;
+  text-align: center;
+}
+@media all and (min-width: 768px) {
+  /* line 1, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in {
+    padding-top: 26px;
+  }
+  /* line 46, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in__thumb img {
+    max-width: 100%;
+    height: auto;
+  }
+  /* line 52, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in__btn {
+    margin-top: -70px;
+    float: right;
+    display: inline-block;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 1, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in {
+    padding-top: 80px;
+  }
+  /* line 63, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in__title {
+    font-size: 42px;
+    margin: 50px 0 10px;
+  }
+  /* line 70, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in__content h2 {
+    font-size: 30px;
+  }
+  /* line 74, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in__content p {
+    font-size: 18px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  /* line 86, public/css/sass/pages/_novo-drive-in.scss */
+  .c-sobre__content p img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+  }
+
+  /* line 94, public/css/sass/pages/_novo-drive-in.scss */
+  .c-new-drive-in__thumb img {
+    width: 100%;
+    height: auto;
+  }
+}
+@media all and (min-width: 768px) {
+  /* line 101, public/css/sass/pages/_novo-drive-in.scss */
+  .c-sobre {
+    padding: 0px;
+  }
+  /* line 104, public/css/sass/pages/_novo-drive-in.scss */
+  .c-sobre__content {
+    padding: 0 20px;
+  }
+  /* line 108, public/css/sass/pages/_novo-drive-in.scss */
+  .c-sobre__content p img {
+    margin: 0px 11px 11px 0;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 117, public/css/sass/pages/_novo-drive-in.scss */
+  .c-sobre {
+    padding: 0;
+  }
+  /* line 120, public/css/sass/pages/_novo-drive-in.scss */
+  .c-sobre__content {
+    padding: 0 20px;
+  }
+  /* line 124, public/css/sass/pages/_novo-drive-in.scss */
+  .c-sobre__content p img {
+    margin-bottom: 0px;
+  }
+}
+/* line 1, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo {
+  padding: 0;
+}
+/* line 4, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo * {
+  letter-spacing: 0;
+}
+/* line 8, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__title {
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  text-align: left;
+  color: #FFFFFF;
+  font-size: 44px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 52px;
+  padding: 0;
+  text-transform: initial;
+}
+/* line 20, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__content {
+  text-align: left;
+}
+/* line 23, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__content h2 {
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 32px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 39px;
+  margin-top: 0px;
+}
+/* line 34, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__content p {
+  color: #FFFFFF;
+  font-family: "Lato", sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  max-width: 668px;
+}
+/* line 44, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__btn {
+  display: block;
+  text-align: center;
+}
+/* line 52, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__sites--parceiros {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 16px;
+}
+/* line 57, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__sites--parceiros img {
+  padding-right: 14px;
+}
+/* line 61, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__sites--parceiros a {
+  color: #fff;
+  font-weight: 800;
+  border-bottom: 2px solid #fff;
+}
+/* line 70, public/css/sass/pages/_belas-artes-grupo.scss */
+.c-belas-artes-grupo__thumb {
+  overflow: hidden;
+}
+@media all and (min-width: 768px) {
+  /* line 1, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo {
+    padding-top: 26px;
+  }
+  /* line 79, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo__thumb img {
+    max-width: 930px;
+    height: auto;
+  }
+}
+@media all and (min-width: 930px) {
+  /* line 1, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo {
+    padding-top: 80px;
+  }
+  /* line 90, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo__title {
+    font-size: 42px;
+    margin: 50px 0 10px;
+  }
+  /* line 97, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo__content h2 {
+    font-size: 30px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  /* line 111, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo h1 {
+    font-size: 32px;
+    line-height: 39px;
+  }
+  /* line 116, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo h2 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media all and (max-width: 480px) {
+  /* line 130, public/css/sass/pages/_belas-artes-grupo.scss */
+  .c-belas-artes-grupo__thumb img {
+    width: 100%;
+  }
+}
+/* line 1, public/css/sass/modules/_footer.scss */
+.c-footer {
+  padding: 50px 0 0;
+  width: 100%;
+  min-height: 70px;
+  display: table;
+  background: #e7e7e7;
+}
+/* line 11, public/css/sass/modules/_footer.scss */
+.c-footer__menu {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+}
+/* line 17, public/css/sass/modules/_footer.scss */
+.c-footer__menu li {
+  text-align: center;
+  width: auto;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 12px;
+}
+/* line 24, public/css/sass/modules/_footer.scss */
+.c-footer__menu li:last-child {
+  margin-right: 0;
+}
+/* line 27, public/css/sass/modules/_footer.scss */
+.c-footer__menu a {
+  text-transform: uppercase;
+  font-size: 14px;
+  width: auto;
+  display: inline-block;
+  padding: 5px 8px;
+  color: #202020;
+  border: 2px solid currentColor;
+  transition: background 0.35s ease;
+}
+/* line 41, public/css/sass/modules/_footer.scss */
+.c-footer__institutional {
+  text-align: center;
+  list-style: none;
+  padding: 0 10px;
+}
+/* line 46, public/css/sass/modules/_footer.scss */
+.c-footer__institutional li {
+  font-size: 14px;
+  display: block;
+  margin-bottom: 5px;
+  color: #202020;
+}
+/* line 54, public/css/sass/modules/_footer.scss */
+.c-footer__institutional li a {
+  color: #202020;
+}
+/* line 58, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors {
+  text-align: center;
+  margin-top: 20px;
+}
+/* line 62, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors--center {
+  margin-top: 0;
+}
+/* line 66, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-item {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+/* line 72, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-support {
+  display: block;
+}
+/* line 74, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-support img {
+  margin-top: 10px;
+  width: 140px;
+}
+/* line 80, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-support--no-margin img {
+  margin-top: 0;
+}
+/* line 86, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-partnership {
+  display: block;
+}
+/* line 88, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-partnership img {
+  width: 100px;
+}
+/* line 90, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-partnership--horizontal {
+  display: block;
+}
+/* line 92, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-partnership--horizontal img {
+  max-height: 50px;
+  height: auto;
+}
+/* line 99, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-strategic-partnership {
+  display: block;
+}
+/* line 101, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-strategic-partnership img {
+  width: 88px;
+}
+/* line 103, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-strategic-partnership--horizontal {
+  display: block;
+}
+/* line 105, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-strategic-partnership--horizontal img {
+  max-height: 46px;
+  height: auto;
+  margin-top: 10px;
+}
+/* line 113, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-sponsor {
+  display: block;
+}
+/* line 115, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors-sponsor img {
+  width: 144px;
+}
+/* line 118, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors h4 {
+  font-size: 14px;
+  text-transform: uppercase;
+  margin: 30px 0 10px;
+  color: #252525;
+}
+/* line 126, public/css/sass/modules/_footer.scss */
+.c-footer__sponsors img {
+  max-width: 175px;
+  height: auto;
+}
+/* line 132, public/css/sass/modules/_footer.scss */
+.c-footer__developer {
+  margin-top: 80px;
+  position: relative;
+  display: block;
+  width: 100%;
+}
+/* line 139, public/css/sass/modules/_footer.scss */
+.c-footer__developer-logo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: inline-block;
+  padding: 4px 6px;
+}
+
+@media all and (min-width: 930px) {
+  /* line 154, public/css/sass/modules/_footer.scss */
+  .c-footer .c-footer-container-flex {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  /* line 159, public/css/sass/modules/_footer.scss */
+  .c-footer .c-footer-container-flex .c-footer__institutional {
+    -webkit-order: 0;
+        -ms-flex-order: 0;
+            order: 0;
+  }
+  /* line 163, public/css/sass/modules/_footer.scss */
+  .c-footer .c-footer-container-flex .c-footer__nav.c-nav {
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+  /* line 167, public/css/sass/modules/_footer.scss */
+  .c-footer .c-footer-container-flex .c-footer__sponsors {
+    -webkit-order: 2;
+        -ms-flex-order: 2;
+            order: 2;
+  }
+  /* line 171, public/css/sass/modules/_footer.scss */
+  .c-footer .c-footer-container-flex .c-footer__developer {
+    -webkit-order: 3;
+        -ms-flex-order: 3;
+            order: 3;
+  }
+  /* line 178, public/css/sass/modules/_footer.scss */
+  .c-footer__menu li {
+    margin-bottom: 40px;
+  }
+  /* line 180, public/css/sass/modules/_footer.scss */
+  .c-footer__menu a {
+    transition: background 0.25s ease, color 0.25s ease;
+  }
+  /* line 184, public/css/sass/modules/_footer.scss */
+  .c-footer__menu a:hover {
+    background: #155488;
+    color: #FFF;
+  }
+  /* line 193, public/css/sass/modules/_footer.scss */
+  .c-footer__institutional {
+    margin: 0px;
+  }
+  /* line 197, public/css/sass/modules/_footer.scss */
+  .c-footer__institutional li {
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 10px;
+    padding-right: 15px;
+    vertical-align: middle;
+    margin-bottom: 40px;
+    border-right: 1px solid currentColor;
+  }
+  /* line 208, public/css/sass/modules/_footer.scss */
+  .c-footer__institutional li:last-child {
+    border: none;
+    margin-right: 0;
+    padding-right: 0;
+  }
+  /* line 214, public/css/sass/modules/_footer.scss */
+  .c-footer__institutional li a {
+    color: #202020;
+  }
+  /* line 218, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors {
+    text-align: left;
+  }
+  /* line 221, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors--center {
+    text-align: center;
+  }
+  /* line 225, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors-item {
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 60px;
+  }
+  /* line 231, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors-item:last-child {
+    margin-right: 0;
+  }
+  /* line 233, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors-item img {
+    display: inline-block;
+    vertical-align: baseline;
+  }
+  /* line 241, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors-partnership--horizontal, .c-footer__sponsors-strategic-partnership--horizontal {
+    margin-right: 0;
+    width: 260px;
+  }
+  /* line 247, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors-strategic-partnership {
+    margin-top: -11px;
+    width: 110px;
+  }
+  /* line 250, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors-strategic-partnership img {
+    width: 82px;
+  }
+  /* line 254, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors-sponsor img {
+    width: 160px;
+    margin-right: 30px;
+  }
+  /* line 260, public/css/sass/modules/_footer.scss */
+  .c-footer__sponsors h4 {
+    font-size: 16px;
+  }
+  /* line 264, public/css/sass/modules/_footer.scss */
+  .c-footer__developer-logo {
+    padding: 8px 8px 16px;
+  }
+}
+      </style>
+      <link rel="preload" href="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/css/main.css?ver=2.1.30" as="style"  onload="this.rel='stylesheet'">
+  
+  <script async src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/js/preload/loadCSS.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7JGHSCH5BZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-7JGHSCH5BZ');
+  </script>
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Noite passada em Soho - REAG Belas Artes" />
+	<meta property="og:description" content="Noite Passada em Soho acompanha Eloise (Thomasin Mckenzie), uma jovem apaixonada por design de moda que consegue, misteriosamente, voltar à década de 1960. Lá, ela encontra Sandy (Anya Taylor-Joy), uma deslumbrante aspirante a cantora por quem é fascinada. O que ela não contava é que a Londres dos anos 1960 pode não ser o que ..." />
+	<meta property="og:url" content="https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/" />
+	<meta property="og:site_name" content="REAG Belas Artes" />
+	<meta property="article:modified_time" content="2021-11-24T17:09:25+00:00" />
+	<meta property="og:image" content="https://assets.caixabelasartes.com.br/wp-content/uploads/2021/10/NOITE-PASSADA-EM-SOHO-min.jpeg" />
+	<meta property="og:image:width" content="1199" />
+	<meta property="og:image:height" content="1776" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/","url":"https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/","name":"Noite passada em Soho - REAG Belas Artes","isPartOf":{"@id":"https://www.cinebelasartes.com.br/#website"},"primaryImageOfPage":{"@id":"https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/#primaryimage"},"image":{"@id":"https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/#primaryimage"},"thumbnailUrl":"https://assets.cinebelasartes.com.br/wp-content/uploads/2021/10/NOITE-PASSADA-EM-SOHO-min.jpeg","datePublished":"2021-10-21T02:49:08+00:00","dateModified":"2021-11-24T17:09:25+00:00","breadcrumb":{"@id":"https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/#primaryimage","url":"https://assets.cinebelasartes.com.br/wp-content/uploads/2021/10/NOITE-PASSADA-EM-SOHO-min.jpeg","contentUrl":"https://assets.cinebelasartes.com.br/wp-content/uploads/2021/10/NOITE-PASSADA-EM-SOHO-min.jpeg","width":1199,"height":1776},{"@type":"BreadcrumbList","@id":"https://www.cinebelasartes.com.br/filme/noite-passada-em-soho/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.cinebelasartes.com.br/"},{"@type":"ListItem","position":2,"name":"Filmes","item":"https://www.cinebelasartes.com.br/filme/"},{"@type":"ListItem","position":3,"name":"Noite passada em Soho"}]},{"@type":"WebSite","@id":"https://www.cinebelasartes.com.br/#website","url":"https://www.cinebelasartes.com.br/","name":"REAG Belas Artes","description":"Cinema","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.cinebelasartes.com.br/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cinebelasartes.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.cinebelasartes.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="https://api.w.org/" href="https://www.cinebelasartes.com.br/wp-json/" /><link rel='shortlink' href='https://www.cinebelasartes.com.br/?p=9416' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.cinebelasartes.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cinebelasartes.com.br%2Ffilme%2Fnoite-passada-em-soho%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.cinebelasartes.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cinebelasartes.com.br%2Ffilme%2Fnoite-passada-em-soho%2F&#038;format=xml" />
+<style>
+.c-play-schedule .c-logotipos {
+    display: none;
+}
+
+.c-header__top {
+    background: #127345;
+}
+
+@media (max-width: 929px) {
+  .c-brand {
+    left: 19px;
+    top: 54%;
+    width: 76%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+    .c-a-la-carte__thumb,
+    .c-highlights li {
+       overflow:hidden;
+    }
+
+    .c-highlights li img[alt*="À LA CARTE"] {
+        width: 150%;
+        transform: translate(-50%, -30%);
+    }
+}
+
+.c-play-schedule__date-info {
+  display: none;
+}
+
+.c-second-menu { display: none !important;  }
+
+.c-menu-link-special {
+    display: inline-block !important;
+}
+
+.single-schedule .c-special-schedule__no-movies .c-no-movies-box__left{
+    display: none;
+}
+
+.single-schedule .c-special-schedule__no-movies .c-no-movies-box__right{
+   text-align: center;
+   width: 100%;
+   display: block;
+}
+
+@media only screen and (max-width: 600px) {
+  .single-schedule .c-special-schedule__no-movies {
+       margin-bottom: 80px;
+  }
+}
+
+@media (min-width: 930px) {
+  .c-brand {
+    margin-top: 20px;
+    max-width: 450px;
+  }
+}
+
+</style>
+		<style type="text/css" id="wp-custom-css">
+			.c-play-schedule__content-text p {
+	line-height: 1.6em;
+margin-block-end: 1.6em;
+}
+
+.c-play-schedule__content-text li {
+line-height: 1.6em;
+}
+
+.c-play-schedule p {
+	line-height: 1.6em;
+margin-block-end: 1.6em;
+}
+
+.c-play-schedule li {
+line-height: 1.6em;
+}		</style>
+		</head>
+
+<body data-rsssl=1 class="filme-template-default single single-filme postid-9416 show-special-link filme-noite-passada-em-soho">
+<header class="c-header">
+  <div class="c-header__top">
+    <a class="c-brand c-brand__link" href="https://www.cinebelasartes.com.br" name="brand, home link"><img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/REAG-Belas-Artes2.png" alt="logo"></a>
+    <a class="c-hamburguer js-menu" href="#"><span class="zmdi zmdi-menu"></span></a>
+  </div>
+  <div class="c-header__nav-content js-menu-content">
+    <nav class="c-header__nav c-nav">
+      <ul id="menu-main-menu" class="c-menu c-main-menu"><li id="menu-item-4245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4245"><a href="https://www.cinebelasartes.com.br/programacao-regular/">Programação</a></li>
+<li id="menu-item-4084" class="c-menu-link-special menu-item--btn-alert menu-item menu-item-type-post_type menu-item-object-page menu-item-4084"><a href="https://www.cinebelasartes.com.br/programacao-especial/">Programação Especial</a></li>
+<li id="menu-item-4045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4045"><a href="https://www.cinebelasartes.com.br/ingresso-online/">Ingresso Online</a></li>
+<li id="menu-item-4046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4046"><a href="#">O Cinema</a>
+<ul class="sub-menu">
+	<li id="menu-item-4047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4047"><a href="https://www.cinebelasartes.com.br/sobre/">Sobre</a></li>
+	<li id="menu-item-4132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4132"><a href="https://www.cinebelasartes.com.br/parceiros">Parcerias</a></li>
+	<li id="menu-item-4048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4048"><a href="https://www.cinebelasartes.com.br/regrinhas/">Regrinhas</a></li>
+	<li id="menu-item-4033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4033"><a href="https://www.cinebelasartes.com.br/eventos/">Eventos</a></li>
+</ul>
+</li>
+<li id="menu-item-7562" class="btn-a-la-carte menu-item menu-item-type-post_type menu-item-object-page menu-item-7562"><a href="https://www.cinebelasartes.com.br/sobre-o-a-la-carte/">À LA CARTE</a></li>
+<li id="menu-item-8195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8195"><a href="https://www.cinebelasartes.com.br/belas-artes-grupo/">Belas Artes Grupo</a></li>
+</ul>    </nav>
+    <nav class="c-header__second-nav c-nav">
+      <ul id="menu-second-menu" class="c-menu c-second-menu"><li id="menu-item-8479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-8479"><a href="https://www.cinebelasartes.com.br/">Home</a></li>
+</ul>    </nav>
+    <nav class="c-header__social-nav c-nav">
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/reagbelasartes"><span class="zmdi zmdi-facebook"></span></a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/reagbelasartes/">
+          <svg class="c-icon c-icon__instagram" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+       viewBox="0 0 56.7 56.7" enable-background="new 0 0 56.7 56.7" xml:space="preserve">
+            <g>
+              <path fill="#fff" d="M28.2,16.7c-7,0-12.8,5.7-12.8,12.8s5.7,12.8,12.8,12.8S41,36.5,41,29.5S35.2,16.7,28.2,16.7z M28.2,37.7
+                c-4.5,0-8.2-3.7-8.2-8.2s3.7-8.2,8.2-8.2s8.2,3.7,8.2,8.2S32.7,37.7,28.2,37.7z"/>
+              <circle fill="#fff" cx="41.5" cy="16.4" r="2.9"/>
+              <path fill="#fff" d="M49,8.9c-2.6-2.7-6.3-4.1-10.5-4.1H17.9c-8.7,0-14.5,5.8-14.5,14.5v20.5c0,4.3,1.4,8,4.2,10.7c2.7,2.6,6.3,3.9,10.4,3.9
+                h20.4c4.3,0,7.9-1.4,10.5-3.9c2.7-2.6,4.1-6.3,4.1-10.6V19.3C53,15.1,51.6,11.5,49,8.9z M48.6,39.9c0,3.1-1.1,5.6-2.9,7.3
+                s-4.3,2.6-7.3,2.6H18c-3,0-5.5-0.9-7.3-2.6C8.9,45.4,8,42.9,8,39.8V19.3c0-3,0.9-5.5,2.7-7.3c1.7-1.7,4.3-2.6,7.3-2.6h20.6
+                c3,0,5.5,0.9,7.3,2.7c1.7,1.8,2.7,4.3,2.7,7.2V39.9L48.6,39.9z"/>
+            </g>
+          </svg>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/belasartesgrupo">
+          <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50" width="23px" height="23px"><path fill="#fff" d="M 5.9199219 6 L 20.582031 27.375 L 6.2304688 44 L 9.4101562 44 L 21.986328 29.421875 L 31.986328 44 L 44 44 L 28.681641 21.669922 L 42.199219 6 L 39.029297 6 L 27.275391 19.617188 L 17.933594 6 L 5.9199219 6 z M 9.7167969 8 L 16.880859 8 L 40.203125 42 L 33.039062 42 L 9.7167969 8 z"/></svg>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<!-- <script>
+    window.onbeforeunload = function(e){
+        e.preventDefault();
+        return undefined; // This will stop the redirecting.
+    }
+</script> -->
+
+<div class="c-wrapper">
+  <div class="s-container">
+    <div class="c-movie c-movie-single">
+      <div class="u-aligner">
+        <h2 class="c-play-schedule__title c-section-title">Noite passada em Soho</h2>
+        <h3 class="c-play-schedule__date-info c-section-subtitle">  </h3>
+      </div>
+
+      <div class="c-movie-infos">
+        <div class="row">
+          <div class="col-xs-12 col-md-4 col-lg-3">
+            <div class="c-tech-specs">
+                              <div class="c-movie__thumb-content">
+                  <img width="400" height="600" src="https://assets.cinebelasartes.com.br/wp-content/uploads/2021/10/NOITE-PASSADA-EM-SOHO-min-400x600.jpeg" class="attachment-main_card size-main_card wp-post-image" alt="" decoding="async" fetchpriority="high" />                </div>
+              
+              <div class="u-hidden-tablet u-hidden-desktop">
+                <h3 class="c-movie__synopsis-title">Sinopse</h3>
+                <p class="c-movie__synopsis-text">Noite Passada em Soho acompanha Eloise (Thomasin Mckenzie), uma jovem apaixonada por design de moda que consegue, misteriosamente, voltar à década de 1960. Lá, ela encontra Sandy (Anya Taylor-Joy), uma deslumbrante aspirante a cantora por quem é fascinada. O que ela não contava é que a Londres dos anos 1960 pode não ser o que parece, e o tempo passa cada vez mais a desmoronar, levando a consequências sombrias.</p>
+              </div>
+              <div class="c-tech-specs__info-string">
+                <span>16 anos</span>
+                <span>116min</span>
+                <span>
+                                  </span>
+                <span>
+                                      Reino Unido                                  </span>
+                <span></span>
+                <span>
+                                      Edgar Wright                                  </span>
+              </div>
+
+              <div class="c-tech-specs__info-detail">
+                              <p><strong>Título Original:</strong> Last night in Soho</p>
+                            <p><strong>Idioma:</strong> 
+                                  Inglês                              </p>
+
+                            <p><strong>LEGENDA:</strong> Português</p>
+
+                            </div>
+
+              </div>
+          </div>
+
+          <div class="col-xs-12 col-md-8 col-lg-9">
+            <div class="u-hidden-mobile u-show-starting-tablet">
+              <h3 class="c-movie__synopsis-title">Sinopse</h3>
+              <p class="c-movie__synopsis-text">Noite Passada em Soho acompanha Eloise (Thomasin Mckenzie), uma jovem apaixonada por design de moda que consegue, misteriosamente, voltar à década de 1960. Lá, ela encontra Sandy (Anya Taylor-Joy), uma deslumbrante aspirante a cantora por quem é fascinada. O que ela não contava é que a Londres dos anos 1960 pode não ser o que parece, e o tempo passa cada vez mais a desmoronar, levando a consequências sombrias.</p>
+            </div>
+
+                      </div>
+
+                      <div class="col-xs-12 col-md-12 col-lg-12">
+              <div id="tickets_content" >
+                <div style="width: 100%; margin: 0 auto;">
+                    <iframe id="veloxframe" src="https://www.veloxtickets.com/Parceiro/P-BELASARTES/Evento/Cinema/Sao-Paulo/Noite-Passada-Em-Soho/15667" width="100%" scrolling="YES" frameborder="0" height="800" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-pointer-lock"></iframe>
+                    <script type="text/javascript" src="//www.veloxtickets.com/Parceiro/Scripts/parceiroLoader.js"
+             veloxframesrc="https://www.veloxtickets.com/Parceiro/P-BELASARTES/Evento/Cinema/Sao-Paulo/Noite-Passada-Em-Soho/15667"></script>
+                </div>
+              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<footer class="c-footer js-footer">
+  <div class="s-container c-footer-container-flex">
+    <nav class="c-footer__nav c-nav">
+      <ul id="menu-footer-menu" class="c-footer__menu"><li id="menu-item-4050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4050"><a href="https://www.cinebelasartes.com.br/faq/">Faq</a></li>
+<li id="menu-item-4051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4051"><a href="https://www.cinebelasartes.com.br/trabalhe-conosco/">Trabalhe Conosco</a></li>
+<li id="menu-item-4052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4052"><a href="https://www.cinebelasartes.com.br/imprensa/">Imprensa</a></li>
+<li id="menu-item-4053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="https://www.cinebelasartes.com.br/anuncie/">Anuncie</a></li>
+<li id="menu-item-4054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4054"><a href="https://www.cinebelasartes.com.br/localizacao/">Localização</a></li>
+</ul>    </nav>
+
+    <ul class="c-footer__institutional">
+              <li>Reag Belas Artes - Rua da Consolação, 2.423 - São Paulo/SP - CEP 01301-100</li>
+              <li>11 2894 5781</li>
+              <li><a href="/cdn-cgi/l/email-protection#bcdfd3d2c8ddc8d3fcded9d0ddcfddcec8d9cfdbcec9ccd392dfd3d192dece"><span class="__cf_email__" data-cfemail="3b5854554f5a4f547b595e575a485a494f5e485c494e4b5415585456155949">[email&#160;protected]</span></a></li>
+          </ul>
+
+    <!-- <div class="c-footer__sponsors">
+      <div class="c-footer__sponsors-item c-footer__sponsors-support">
+        <h4>Apoio</h4>
+        <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/caixa_seguradora.png" alt="logo caixa seguradora">
+      </div>
+
+      <div class="c-footer__sponsors-item c-footer__sponsors-partnership">
+        <h4>Parceria</h4>
+        <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/prefeitura-signature.png" alt="logo prefeitura">
+      </div>
+
+      <div class="c-footer__sponsors-item c-footer__sponsors-strategic-partnership">
+        <h4>Parceria Estratégica</h4>
+        <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/ASAS-LOGO.png" alt="logo asas">
+      </div>
+
+      <div class="c-footer__sponsors-item c-footer__sponsors-sponsor">
+        <h4>Patrocínio</h4>
+        <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/logos_caixa-governo.png" alt="logo caixa e governo federal" style="width: 347px; max-width: 347px;">
+      </div>
+    </div> -->
+
+    <div class="c-footer__sponsors c-footer__sponsors--center">
+
+      <div class="c-footer__sponsors-item">
+        <h4>&nbsp;</h4>
+        <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/logos_fsa-ancine.png" alt="logo fsa / ancine">
+      </div>
+
+      <div class="c-footer__sponsors-item c-footer__sponsors-partnership--horizontal">
+        <h4>Parceria</h4>
+        <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/prefeitura-signature-horizontal.png" alt="logo prefeitura">
+      </div>
+
+      <div class="c-footer__sponsors-item c-footer__sponsors-strategic-partnership--horizontal">
+        <h4>Parceria Estratégica</h4>
+        <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/asas-logo-horizontal.png" alt="logo asas">
+      </div>
+    </div>
+
+    <div class="c-footer__developer">
+      <a class="c-footer__developer-logo" href="https://levante.cx" target="_blank">
+      <img src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/images/brand/logotipo_roxo.png" alt="logo levante">
+              </a>
+    </div>
+    <!-- <div class="o-modal o-modal--warn-alert js-alert-modal o-modal--invisible o-modal--first-load">
+  <div class="o-modal__bg js-close-modal"></div>
+  <div class="o-modal__content">
+    <div class="o-modal__head">
+      <a class="o-modal-close js-close-modal" href=""><span class="zmdi zmdi-close"></span> Fechar</a>
+    </div>
+
+    <div class="o-modal__body o-modal__body--popup">
+      <img src="https://assets.caixabelasartes.com.br/wp-content/uploads/2017/05/caixa-belas-artes04_sala-de-cinema_foto-gabi-butcher.jpeg">
+      <h1 class="o-modal-content c-modal-title">Nosso sistema de ingresso online mudou!</h1>
+      <h3 class="o-modal-content c-modal-subtitle">Agora você poderá comprar seu ingresso diretamente em nosso site pagando uma taxa de apenas R$ 1,80!</h3>
+      <div class="u-aligner">
+        <a class="o-btn o-btn--primary o-btn--modal" href="http://www.caixabelasartes.com.br/ingresso-online/">Comprar Ingresso</a>
+      </div>
+    </div>
+  </div>
+</div> -->  </div>
+</footer>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" id="main_js-js-extra">
+/* <![CDATA[ */
+var phpVars = {"ajaxUrl":"https:\/\/www.cinebelasartes.com.br\/filme\/noite-passada-em-soho\/","env":"dev","homeUrl":"https:\/\/www.cinebelasartes.com.br"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cinebelasartes.com.br/wp-content/themes/caixa-belas-artes-v2/public/js/main.js?ver=2.1.30" id="main_js-js"></script>
+
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8db310b0dffa4b29',t:'MTczMDM3MTYyOC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
